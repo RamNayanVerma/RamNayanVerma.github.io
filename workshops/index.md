@@ -11,11 +11,12 @@ image:
   creditlink: https://aseetharam.github.io
 ---
 
-# Educational resources
+## Educational
+
 **Bioinformatics Workbook**
 [Workbook](https://bioinformaticsworkbook.org/)
 
-# Web resources
+## Web resources
 
 **NAM genomes**
 [Maize NAM founder lines genome assembly and annotations project page](https://nam-genomes.org/)
@@ -30,7 +31,7 @@ image:
 **SCNbase**
 [Genome resources for _Heterodera_ spp (Soybean Cyst Nematode)](https://genomeqc.maizegdb.org/)
 
-# Software
+## Software
 
 **pyrpipe**
 [Genome resources for _Heterodera_ spp (Soybean Cyst Nematode)](https://genomeqc.maizegdb.org/)
