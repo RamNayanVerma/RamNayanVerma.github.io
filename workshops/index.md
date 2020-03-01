@@ -6,7 +6,7 @@ modified: 2020-02-19T12:24:48+09:00
 excerpt: "Bio-statistics and R"
 tags: [R, statistics, workshops, teaching]
 image:
-  feature: Rintro.jpg
+  feature: sample-image-3.jpg
   credit: Timothée Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
@@ -17,6 +17,3 @@ image:
 
 **One day introduction to R, 31 January 2020 and 17 July 2019:**
 [https://timotheenivalis.github.io/workshops/siteIntroR/](https://timotheenivalis.github.io/workshops/siteIntroR/)
-
-
-

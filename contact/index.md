@@ -6,25 +6,25 @@ modified: 2017-08-11T20:36:00+02:00
 excerpt: "How to get in touch"
 tags: [contact, Timothée bonnet, timothée bonnet, email, address, pigeon, social media]
 image:
-  feature:
+  feature: sample-image-2.jpg
 ---
 
-An incomplete list of ways to get in touch with me
+Get in touch with me!
 
 ## E-mail
-[timotheebonnetc followed by "at gmail dot com" ](mailto:timotheebonnetc@gmail.com)
+[arnstrm followed by "at gmail dot com" ](mailto:arnstrm@gmail.com)
 
-## Send a pigeon ##
-Timothée Bonnet  
-Division of Ecology and Evolution
-Research School of Biology 
-ANU College of Science
-RN Robertson Building
-46 Sullivans Creek Road
-The Australian National University
-Canberra ACT 2600
+## Snail-Mail ##
+
+Arun Seetharam
+Genome Informatics Facility,
+448 Bessey Hall,
+2200 Osborn Drive,
+Ames, IA 50011.
+
 
 ## "Social" media ##
-[ResearchGate](https://www.researchgate.net/profile/Timothee_Bonnet)  
-[Twitter: @TimotheeBonnet](https://twitter.com/TimotheeBonnet)  
-[GitHub: timotheenivalis](https://github.com/timotheenivalis/)
+
+[ORCiD: 0000-0002-6789-9298](https://orcid.org/0000-0002-6789-9298)  
+[Twitter: @ArunSeetharam](https://twitter.com/ArunSeetharam)  
+[GitHub: aseetharam](https://github.com/aseetharam)
