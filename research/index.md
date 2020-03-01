@@ -6,7 +6,7 @@ modified: 2017-09-02T12:30:00+01:00
 excerpt: "Timothée Bonnet's research interests"
 tags: [timothee, timothée, Timothee, Timothée, Bonnet, Timothée Bonnet, research, biology, evolution, snow voles, chionomys nivalis, hybridization, introgression]
 image:
-  feature: nails.JPG
+  feature: sample-image-1b.jpg
   credit: Timothée Bonnet
   creditlink: http://timotheenivalis.github.io
 ---
@@ -35,10 +35,10 @@ Spoilers: Based on my PhD and postdoc work on a snow vole population, the answer
 
 # Statistical methods for evolutionary quantitative genetics
 
-When you work with wild animals it is bloody difficult to see evolution happening in real time, even worse to understand what drives evolution, and nightmarish to predict the future of populations. 
+When you work with wild animals it is bloody difficult to see evolution happening in real time, even worse to understand what drives evolution, and nightmarish to predict the future of populations.
 Because natural ecosystems are so complex, and because field data tend to be noisy, you need special statistical tools to isolate selection, evolution and demographic trends.
 
-I have done some work to tell apart selective signals from neutral processes  ([Bonnet & Postma 2016](http://www.journals.uchicago.edu/doi/10.1086/684158), [van Benthem, Bruijning, Bonnet et al 2017](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12627/abstract)), and to correct measurement error from estimates of selection and heritability ([Ponzi, Keller, Bonnet, Muff 2018](https://doi.org/10.1111/evo.13573)). 
+I have done some work to tell apart selective signals from neutral processes  ([Bonnet & Postma 2016](http://www.journals.uchicago.edu/doi/10.1086/684158), [van Benthem, Bruijning, Bonnet et al 2017](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12627/abstract)), and to correct measurement error from estimates of selection and heritability ([Ponzi, Keller, Bonnet, Muff 2018](https://doi.org/10.1111/evo.13573)).
 
 At the moment I am focusing on improving statistical models of quantitative genetic variation in fitness, and other strangely distributed traits. Two publications were submitted late 2018.
 
