@@ -25,7 +25,7 @@ image:
 
 ## Preprints/In-Press
 
-- Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle William Swentowsky, Jonathan Isaiah Gent, Victor Llaca, Margaret Woodhouse, Nancy Manchanda, Gernot G Presting, et al. Gapless assembly of maize chromosomes using long read technologies. _bioRxiv_, 2020. [![PDF](https://img.icons8.com/dusk/64/000000/pdf.png){:height="24px" width="24px"}](https://doi.org/10.1101/2020.01.14.906230)
+- Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle William Swentowsky, Jonathan Isaiah Gent, Victor Llaca, Margaret Woodhouse, Nancy Manchanda, Gernot G Presting, et al. Gapless assembly of maize chromosomes using long read technologies. _bioRxiv_, 2020. [![PDF](https://img.icons8.com/dusk/64/000000/pdf.png)](https://doi.org/10.1101/2020.01.14.906230){:height="24px" width="24px"}
 
 
 - Shujun Ou, Jianing Liu, Kapeel M Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M Gilbert, Xuehong Wei, et al. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _BioRxiv_, page 858365, 2019.  [![DOI](https://zenodo.org/badge/DOI/10.1101/2020.01.14.906230.svg)](https://doi.org/10.1101/2020.01.14.906230)
