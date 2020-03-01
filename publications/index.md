@@ -166,8 +166,8 @@ image:
 [<img src="https://img.shields.io/badge/Open_Access-blue?style=flat&logo=Open-Access"/>]()
 
 
-- P. Srinivasa Reddy, B. Fakrudin, Rajkumar, S. M. Punnuri, **S. S. Arun**, M. S. Kuruvinashetti, I. K. Das, and N. Seetharama. Molecular mapping of genomic regions harboring QTLs for stalk rot resistance in sorghum. _Euphytica_, 159(1--2):191--198, 2007. [<img src="https://img.shields.io/badge/get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>]()
-
+- P. Srinivasa Reddy, B. Fakrudin, Rajkumar, S. M. Punnuri, **S. S. Arun**, M. S. Kuruvinashetti, I. K. Das, and N. Seetharama. Molecular mapping of genomic regions harboring QTLs for stalk rot resistance in sorghum. _Euphytica_, 159(1--2):191--198, 2007.
+[<img src="https://img.shields.io/badge/Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1007/s10681-007-9472-9)
 
 ## Thesis/Dissertation
 
