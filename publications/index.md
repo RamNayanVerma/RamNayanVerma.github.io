@@ -26,8 +26,8 @@ image:
 ## Preprints/In-Press
 
 - Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle William Swentowsky, Jonathan Isaiah Gent, Victor Llaca, Margaret Woodhouse, Nancy Manchanda, Gernot G Presting, et al. Gapless assembly of maize chromosomes using long read technologies. _bioRxiv_, 2020.
-[![PDF](https://img.icons8.com/color/48/000000/export-pdf.png)](https://doi.org/10.1101/2020.01.14.906230){:height="4px" width="4px"}
-[![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://doi.org/10.1101/2020.01.14.906230){:height="4px" width="4px"}
+<img src="https://img.icons8.com/color/48/000000/export-pdf.png" alt="PDF" style="width:10px;"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GIT" style="width:10px;"/>
 
 
 
