@@ -89,21 +89,21 @@ image:
 
 ## Ph.D/Masters
 
-- **Arun S Seetharam** and Gary W Stuart. Whole genome phylogeny for 21 drosophila species using predicted 2b-rad fragments. _PeerJ_, 1:e226, 2013.
+- **Arun S Seetharam** and Gary W Stuart. Whole genome phylogeny for 21 _Drosophila_ species using predicted 2b-RAD fragments. _PeerJ_, 1:e226, 2013.
 
-- **Arun Seetharam** and Gary W Stuart. A study on the distribution of 37 well conserved families of c2h2 zinc finger genes in eukaryotes. _Bmc Genomics_, 14(1):420, 2013.
+- **Arun Seetharam** and Gary W Stuart. A study on the distribution of 37 well conserved families of C2H2 zinc finger genes in eukaryotes. _Bmc Genomics_, 14(1):420, 2013.
 
-- Rajkumar, B. Fakrudin, S. P. Kavil, Y. Girma, **S. S. Arun**, D. Dadakhalandar, B. H. Gurusiddesh, A. M. Patil, M. Thudi, S. B. Bhairappanavar, et al. Molecular mapping of genomic regions harbouring qtls for root and yield traits in sorghum (sorghum bicolor l. moench). _Physiology and Molecular Biology of Plants_, 19(3):409--419, 2013.
+- Rajkumar, B. Fakrudin, S. P. Kavil, Y. Girma, **S. S. Arun**, D. Dadakhalandar, B. H. Gurusiddesh, A. M. Patil, M. Thudi, S. B. Bhairappanavar.  Molecular mapping of genomic regions harbouring QTLs for root and yield traits in sorghum (_Sorghum bicolor_ L. Moench). _Physiology and Molecular Biology of Plants_, 19(3):409--419, 2013.
 
-- **Arun Seetharam** and Gary W Stuart. Whole genome phylogenies for multiple drosophila species. _BMC research notes_, 5(1):670, 2012.
+- **Arun Seetharam** and Gary W Stuart. Whole genome phylogenies for multiple _Drosophila_ species. _BMC research notes_, 5(1):670, 2012.
 
-- **Arun Seetharam**, Yang Bai, and Gary W Stuart. A survey of well conserved families of c2h2 zinc-finger genes in daphnia. _BMC genomics_, 11(1):276, 2010.
+- **Arun Seetharam**, Yang Bai, and Gary W Stuart. A survey of well conserved families of C2H2 zinc-finger genes in _Daphnia_. _BMC genomics_, 11(1):276, 2010.
 
-- P. Srinivasa Reddy, B. Fakrudin, Rajkumar, S. M. Punnuri, **S. S. Arun**, M. S. Kuruvinashetti, I. K. Das, and N. Seetharama. Molecular mapping of genomic regions harboring qtls for stalk rot resistance in sorghum. _Euphytica_, 159(1--2):191--198, 2007.
+- P. Srinivasa Reddy, B. Fakrudin, Rajkumar, S. M. Punnuri, **S. S. Arun**, M. S. Kuruvinashetti, I. K. Das, and N. Seetharama. Molecular mapping of genomic regions harboring QTLs for stalk rot resistance in sorghum. _Euphytica_, 159(1--2):191--198, 2007.
 
 
 ## Thesis/Dissertation
 
--  Arun Somwarpet Seetharam. _Phylogenomics: Molecular Evolution in the Genomics Era_. PhD thesis, 2012.
+-  **Arun Somwarpet Seetharam.** _Phylogenomics: Molecular Evolution in the Genomics Era_. PhD thesis, 2012.
 
-- SS Arun. _In Silico Est Datamining for Elucidation of Repeats Biology and Functional Annotation in Sorghum \[Sorghum Bicolor (L.) Moench.\]_. PhD thesis, UAS, Dharwad, 2006.
+- **SS Arun.** _In Silico Est Datamining for Elucidation of Repeats Biology and Functional Annotation in Sorghum_ [_Sorghum bicolor_ (L.) Moench.]. Masters thesis, UAS, Dharwad, 2006.
