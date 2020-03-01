@@ -6,7 +6,7 @@ modified: 2020-02-28T00:00:00+00:00
 excerpt: "Arun Seetharam's research website."
 tags: [Arun Seetharam, research, Bioinformatics, plant genomics, animal genomics, home]
 image:
-  feature: churwalden.JPG
+  feature: 
   credit: Arun Seetharam
   creditlink: https://aseetharam.github.io
 ---
@@ -14,6 +14,6 @@ I am a bioinformatician and my main interests are in the fields of genomics and 
 
 I am currently employed as an Associate Scientist at [Genome Informatics Facility](https://gif.biotech.iastate.edu/), and collaborate with Mattew Hufford, Eve Wurtele and MaizeGDB at Iowa State University, Ames, IA.
 
-[**Workshops on UNIX, Phylogenomics** are at https://timotheenivalis.github.io//workshops/](https://aseetharam.github.io/workshops).
+**Workshops on UNIX and Phylogenomics** can be found [here](https://aseetharam.github.io/workshops).
 
-[My full C.V.]().
+[My full C.V]().
