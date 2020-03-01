@@ -4,7 +4,7 @@ title: Mapping network drives in Windows
 excerpt: "hack for mapping multiple network drives on the same machine"
 date: 2013-03-02T19:38:00+00:00
 modified: 2013-03-02T19:38:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, hack, windows8, network, mapping]
 categories: [bioinformatics]
 comments: true
 #image:
