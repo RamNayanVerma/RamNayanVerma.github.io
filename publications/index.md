@@ -28,7 +28,7 @@ image:
 
 
 - Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle William Swentowsky, Jonathan Isaiah Gent, Victor Llaca, Margaret Woodhouse, Nancy Manchanda, Gernot G Presting, David Kudrna, Magdy Alabady, Candice Hirsch, Kevin Fengler, Doreen Ware, Todd Michael, Matthew Hufford, Kelly Dawe. Gapless assembly of maize chromosomes using long read technologies. _bioRxiv_, 2020.
-[<img src="/images/icons/openaccess.svg" alt="PDF" style="width:15px;"/>](https://www.biorxiv.org/content/10.1101/858365v2.full.pdf)
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat"/>](https://www.biorxiv.org/content/10.1101/858365v2.full.pdf)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/oushujun/Maize_NC358)
 
 
