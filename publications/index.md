@@ -156,7 +156,7 @@ image:
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
 
 
-- Rajkumar, B. Fakrudin, S. P. Kavil, Y. Girma, **S. S. Arun**, D. Dadakhalandar, B. H. Gurusiddesh, A. M. Patil, M. Thudi, S. B. Bhairappanavar.  Molecular mapping of genomic regions harbouring QTLs for root and yield traits in sorghum (_Sorghum bicolor_ L. Moench). _Physiology and Molecular Biology of Plants_, 19(3):409--419, 2013.
+- Rajkumar, B. Fakrudin, S. P. Kavil, Y. Girma, **S. S. Arun**, D. Dadakhalandar, B. H. Gurusiddesh, A. M. Patil, M. Thudi, S. B. Bhairappanavar.  Molecular mapping of genomic regions harbouring QTLs for root and yield traits in sorghum (_Sorghum bicolor_ L. Moench). _Physiology and Molecular Biology of Plants_, 19(3):409--419, 2013. [<img src="https://img.shields.io/badge/-get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>]()
 
 - **Arun Seetharam** and Gary W Stuart. Whole genome phylogenies for multiple _Drosophila_ species. _BMC research notes_, 5(1):670, 2012.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
@@ -166,7 +166,7 @@ image:
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
 
 
-- P. Srinivasa Reddy, B. Fakrudin, Rajkumar, S. M. Punnuri, **S. S. Arun**, M. S. Kuruvinashetti, I. K. Das, and N. Seetharama. Molecular mapping of genomic regions harboring QTLs for stalk rot resistance in sorghum. _Euphytica_, 159(1--2):191--198, 2007.
+- P. Srinivasa Reddy, B. Fakrudin, Rajkumar, S. M. Punnuri, **S. S. Arun**, M. S. Kuruvinashetti, I. K. Das, and N. Seetharama. Molecular mapping of genomic regions harboring QTLs for stalk rot resistance in sorghum. _Euphytica_, 159(1--2):191--198, 2007. [<img src="https://img.shields.io/badge/-get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>]()
 
 
 ## Thesis/Dissertation
