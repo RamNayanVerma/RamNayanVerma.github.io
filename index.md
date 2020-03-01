@@ -14,6 +14,6 @@ I am a bioinformatician and my main interests are in the fields of genomics and 
 
 I am currently employed as an Associate Scientist at [Genome Informatics Facility](https://gif.biotech.iastate.edu/), and I collaborate with Matthew Hufford from Department of Ecology, Evolution, and Organismal Biology (EEOB), Eve Wurtele from Department of Genetics, Development, and Cell Biology at Iowa State University and MaizeGDB, USDA at Ames, IA.
 
-**Workshops on UNIX and Phylogenomics** can be found [in Resources](https://aseetharam.github.io/workshops) section.
+**You can check-out some of my synergistic contributions in** [resources](https://aseetharam.github.io/workshops) section.
 
 [My full C.V](/publications/pdf/cv_seetharam.pdf).
