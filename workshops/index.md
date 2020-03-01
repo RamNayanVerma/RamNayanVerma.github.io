@@ -16,6 +16,12 @@ image:
 **Bioinformatics Workbook**
 [Workbook](https://bioinformaticsworkbook.org/)
 
+**Workshop on Basic UNIX**
+
+
+**Workshop on Phylogenomics**
+
+
 ## Web resources
 
 **NAM genomes**
