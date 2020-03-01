@@ -172,7 +172,7 @@ image:
 ## Thesis/Dissertation
 
 -  **Arun Somwarpet Seetharam.** _Phylogenomics: Molecular Evolution in the Genomics Era_. PhD thesis, 2012.
-[<img src="https://img.shields.io/badge/-Get-PDF-red?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/arun-seetharam-phd-thesis.pdf)
+[<img src="https://img.shields.io/badge/-get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/arun-seetharam-phd-thesis.pdf)
 
 - **SS Arun.** _In Silico Est Datamining for Elucidation of Repeats Biology and Functional Annotation in Sorghum_ [_Sorghum bicolor_ (L.) Moench.]. Masters thesis, UAS, Dharwad, 2006.
-[<img src="https://img.shields.io/badge/-Get-PDF-red?style=flat&logo=Adobe-Acrobat-Reader""/>](/publications/pdf/arun-seetharam-msc-thesis.pdf)
+[<img src="https://img.shields.io/badge/-get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/arun-seetharam-msc-thesis.pdf)
