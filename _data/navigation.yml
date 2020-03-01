@@ -1,11 +1,11 @@
 # Site navigation links
-- title: Research
+- title: Projects
   url: /research/
 
 - title: Publications
   url: /publications/
 
-- title: Resources
+- title: Software
   url: /workshops/
 
 - title: Hacks
