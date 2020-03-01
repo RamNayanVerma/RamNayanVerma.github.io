@@ -18,9 +18,8 @@ I have connections to so many servers and it is painful to transfer files from t
 ![error](/images/p2-error.png)
 
 
-```
 The network folder specified is currently mapped using a different user name and password. To connect using different username and password, first disconnect any existing mappings to this network share
-```
+
 
 It was clearly an erroneous error message because she had never connected that drive before. Finally, we figured out that it was a bug that didn't let us map. The solution was easy, if you have signed in using different credentials for the server, you don't have to sign in every time you map another drive from the same server. It was as simple as that!
 
