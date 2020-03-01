@@ -26,7 +26,7 @@ Our work has also been highlighted by various online news journals, showing its 
 
 3.	_“To improve and expand business operations, scientists at Iowa State University and the National Oceanic and Atmospheric Administration (NOAA) worked with the Pittsburgh Supercomputing Center (PSC) experts to assemble the DNA sequences of several species of abalone on the Bridges supercomputer”_ [**read more...**](https://sciencenode.org/feature/Bridges%20helps%20preserve%20abalone%20species.php)
 
-4.	Next-generation agriculture requires immense computing power. Learn how supercomputing and bioinformatics will help scientists adapt agricultural practices to feed 9 billion people.[read more...](https://www.hpe.com/us/en/insights/articles/agricultural-genomics-feeding-a-growing-hungry-world-1711.html)
+4.	Next-generation agriculture requires immense computing power. Learn how supercomputing and bioinformatics will help scientists adapt agricultural practices to feed 9 billion people [**read more...**](https://www.hpe.com/us/en/insights/articles/agricultural-genomics-feeding-a-growing-hungry-world-1711.html)
 
 5.	_“Fish genome sequenced with big data: Annotated genome of California yellowtail could be first step in its sustainable aquaculture harvest”_ [**read more...**](https://www.feedstuffs.com/news/fish-genome-sequenced-big-data)
 
