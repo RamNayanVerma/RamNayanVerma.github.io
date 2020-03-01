@@ -6,7 +6,7 @@ modified: 2020-02-19T12:24:48+09:00
 excerpt: "Bio-statistics and R"
 tags: [R, statistics, workshops, teaching]
 image:
-  feature: sample-image-3.jpg
+  feature: sample-image-1b.jpg
   credit: Timothée Bonnet
   creditlink: http://timotheenivalis.github.io
 ---

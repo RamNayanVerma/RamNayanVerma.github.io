@@ -6,7 +6,7 @@ modified: 2017-08-11T20:36:00+02:00
 excerpt: "How to get in touch"
 tags: [contact, Timothée bonnet, timothée bonnet, email, address, pigeon, social media]
 image:
-  feature: sample-image-2.jpg
+  feature: sample-image-1b.jpg
 ---
 
 Get in touch with me!

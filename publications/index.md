@@ -6,7 +6,7 @@ modified: 202-02-29T19:09:34+01:00
 excerpt: "Arun Seetharam's publications"
 tags: [Arun Seetharam, Arun S. Seetharam]
 image:
-  feature: sample-image-4.jpg
+  feature: sample-image-1b.jpg
 ---
 
 <span id='badgeCont419579' style='width:126px'>
