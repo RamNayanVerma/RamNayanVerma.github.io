@@ -25,31 +25,34 @@ image:
 
 ## Preprints/In-Press
 
-- Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle William Swentowsky, Jonathan Isaiah Gent, Victor Llaca, Margaret Woodhouse, Nancy Manchanda, Gernot G Presting, et al. Gapless assembly of maize chromosomes using long read technologies. _bioRxiv_, 2020.
-[<img src="https://img.icons8.com/color/48/000000/export-pdf.png" alt="PDF" style="width:20px;"/>](https://www.biorxiv.org/content/10.1101/2020.01.14.906230v2.full.pdf)
-[<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GIT" style="width:20px;"/>](https://github.com/dawelab/Ab10-Assembly)
-[<img src="https://img.icons8.com/office/16/000000/external-link.png" alt="GIT" style="width:20px;"/>](https://github.com/dawelab/Ab10-Assembly)
+- Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle William Swentowsky, Jonathan Isaiah Gent, Victor Llaca, Margaret Woodhouse, Nancy Manchanda, Gernot G Presting, David Kudrna, Magdy Alabady, Candice Hirsch, Kevin Fengler, Doreen Ware, Todd Michael, Matthew Hufford, Kelly Dawe. Gapless assembly of maize chromosomes using long read technologies. _bioRxiv_, 2020.
+[<img src="/images/icons/openaccess.svg" alt="PDF" style="width:20px;"/>](https://www.biorxiv.org/content/10.1101/858365v2.full.pdf)
+[<img src="/images/icons/github.svg" alt="GIT" style="width:20px;"/>](https://github.com/oushujun/Maize_NC358)
 
 
+- Shujun Ou, Jianing Liu, Kapeel M. Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M. Gilbert, Xuehong Wei, Chen-Shan Chin, David E. Hufnagel, Sarah Pedersen, Samantha Snodgrass, Kevin Fengler, Margaret Woodhouse, Brian P. Walenz, Sergey Koren, Adam M. Phillippy, Brett Hannigan, R. Kelly Dawe, Candice N. Hirsch, Matthew B. Hufford, Doreen Ware. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _BioRxiv_, page 858365, 2019.
+[<img src="/images/icons/openaccess.svg" alt="PDF" style="width:20px;"/>](https://www.biorxiv.org/content/10.1101/858365v2.full.pdf)
+[<img src="/images/icons/github.svg" alt="GIT" style="width:20px;"/>](https://github.com/oushujun/Maize_NC358)
 
-- Shujun Ou, Jianing Liu, Kapeel M Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M Gilbert, Xuehong Wei, et al. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _BioRxiv_, page 858365, 2019.
-[<img src="https://img.icons8.com/color/48/000000/export-pdf.png" alt="PDF" style="width:20px;"/>](https://www.biorxiv.org/content/10.1101/2020.01.14.906230v2.full.pdf)
-[<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GIT" style="width:20px;"/>](https://github.com/dawelab/Ab10-Assembly)
-[<img src="https://img.icons8.com/office/16/000000/external-link.png" alt="GIT" style="width:20px;"/>](https://github.com/dawelab/Ab10-Assembly)  
 
 - **Arun S Seetharam**, Urminder Singh, Jing Li, Priyanka Bhandary, Zebulun Arendsee, and Eve Syrkin Wurtele. Maximizing prediction of orphan genes in assembled genomes. _bioRxiv_, 2019.
-[<img src="https://img.icons8.com/color/48/000000/export-pdf.png" alt="PDF" style="width:20px;"/>](https://www.biorxiv.org/content/10.1101/2020.01.14.906230v2.full.pdf)
-[<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GIT" style="width:20px;"/>](https://github.com/dawelab/Ab10-Assembly)
-[<img src="https://img.icons8.com/office/16/000000/external-link.png" alt="GIT" style="width:20px;"/>](https://github.com/dawelab/Ab10-Assembly)
+[<img src="/images/icons/openaccess.svg" alt="PDF" style="width:20px;"/>](https://www.biorxiv.org/content/10.1101/858365v2.full.pdf)
+[<img src="/images/icons/github.svg" alt="GIT" style="width:20px;"/>](https://github.com/oushujun/Maize_NC358)
 
-- David E Hufnagel, Matthew B Hufford, and **Arun S Seetharam**. SequelTools: A suite of tools for working with pacbio sequel raw sequence data. _bioRxiv_, page 611814, 2019.
-[<img src="https://img.icons8.com/color/48/000000/export-pdf.png" alt="PDF" style="width:20px;"/>](https://www.biorxiv.org/content/10.1101/2020.01.14.906230v2.full.pdf)
-[<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GIT" style="width:20px;"/>](https://github.com/dawelab/Ab10-Assembly)
-[<img src="https://img.icons8.com/office/16/000000/external-link.png" alt="GIT" style="width:20px;"/>](https://github.com/dawelab/Ab10-Assembly)
+- David E Hufnagel, Matthew B Hufford, and **Arun S Seetharam**. SequelTools: A suite of tools for working with PacBio Sequel raw sequence data. _bioRxiv_, page 611814, 2019.
+[<img src="/images/icons/openaccess.svg" alt="PDF" style="width:20px;"/>](https://www.biorxiv.org/content/10.1101/858365v2.full.pdf)
+[<img src="/images/icons/github.svg" alt="GIT" style="width:20px;"/>](https://github.com/oushujun/Maize_NC358)
+[<img src="/images/icons/gnubash.svg" alt="GIT" style="width:20px;"/>](https://github.com/oushujun/Maize_NC358)
+[<img src="/images/icons/python.svg" alt="GIT" style="width:20px;"/>](https://github.com/oushujun/Maize_NC358)
 
-- Karthik Murugan, **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital. Pervasive off-target and double-stranded dna nicking by crispr-cas12a. _BioRxiv_, page 657791, 2019.
+- Karthik Murugan, **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital. Pervasive off-target and double-stranded DNA nicking by CRISPR-Cas12a. _BioRxiv_, page 657791, 2019.
+[<img src="/images/icons/openaccess.svg" alt="PDF" style="width:20px;"/>](https://www.biorxiv.org/content/10.1101/858365v2.full.pdf)
+[<img src="/images/icons/github.svg" alt="GIT" style="width:20px;"/>](https://github.com/oushujun/Maize_NC358)
 
 - Nancy Manchanda, John L Portwood, Margaret R Woodhouse, **Arun S Seetharam**, Carolyn J Lawrence-Dill, Carson M Andorf, and Matthew B Hufford. GenomeQC: A quality assessment tool for genome assemblies and gene structure annotations. _BioRxiv_, page 795237, 2019.
+[<img src="/images/icons/openaccess.svg" alt="PDF" style="width:20px;"/>](https://www.biorxiv.org/content/10.1101/858365v2.full.pdf)
+[<img src="/images/icons/github.svg" alt="GIT" style="width:20px;"/>](https://github.com/oushujun/Maize_NC358)
+[<img src="/images/icons/docker.svg" alt="GIT" style="width:20px;"/>](https://github.com/oushujun/Maize_NC358)
 
 
 ## 2020
