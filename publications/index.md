@@ -163,16 +163,16 @@ image:
 
 
 - **Arun Seetharam**, Yang Bai, and Gary W Stuart. A survey of well conserved families of C2H2 zinc-finger genes in _Daphnia_. _BMC genomics_, 11(1):276, 2010.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/Open_Access-blue?style=flat&logo=Open-Access"/>]()
 
 
-- P. Srinivasa Reddy, B. Fakrudin, Rajkumar, S. M. Punnuri, **S. S. Arun**, M. S. Kuruvinashetti, I. K. Das, and N. Seetharama. Molecular mapping of genomic regions harboring QTLs for stalk rot resistance in sorghum. _Euphytica_, 159(1--2):191--198, 2007. [<img src="https://img.shields.io/badge/-get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>]()
+- P. Srinivasa Reddy, B. Fakrudin, Rajkumar, S. M. Punnuri, **S. S. Arun**, M. S. Kuruvinashetti, I. K. Das, and N. Seetharama. Molecular mapping of genomic regions harboring QTLs for stalk rot resistance in sorghum. _Euphytica_, 159(1--2):191--198, 2007. [<img src="https://img.shields.io/badge/get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>]()
 
 
 ## Thesis/Dissertation
 
 -  **Arun Somwarpet Seetharam.** _Phylogenomics: Molecular Evolution in the Genomics Era_. PhD thesis, 2012.
-[<img src="https://img.shields.io/badge/-get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/arun-seetharam-phd-thesis.pdf)
+[<img src="https://img.shields.io/badge/get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/arun-seetharam-phd-thesis.pdf)
 
 - **SS Arun.** _In Silico Est Datamining for Elucidation of Repeats Biology and Functional Annotation in Sorghum_ [_Sorghum bicolor_ (L.) Moench.]. Masters thesis, UAS, Dharwad, 2006.
-[<img src="https://img.shields.io/badge/-get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/arun-seetharam-msc-thesis.pdf)
+[<img src="https://img.shields.io/badge/get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/arun-seetharam-msc-thesis.pdf)
