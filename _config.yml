@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Timothée Bonnet
+title:            Arun Seetharam
 locale:           en_US
-url:			  https://timotheenivalis.github.io/
+url:			  https://aseetharam.github.io/
 
 # Jekyll configuration
 permalink:   /:categories/:title/
@@ -49,23 +49,23 @@ analytics:
 
 # Site owner
 owner:
-  name: Timothée Bonnet
-  avatar: biophoto.jpg
-  bio: "Evolutionary biologist/ecologist"
-  email: timotheebonnetc@gmail.com
-  disqus-shortname: https-timotheenivalis-github-io
-  twitter: TimotheeBonnet
+  name: Arun Seetharam
+  avatar: arnstrm.jpg
+  bio: "Bioinformatician"
+  email: arnstrm@gmail.com
+#  disqus-shortname: https-timotheenivalis-github-io
+  twitter: ArunSeetharam
   facebook: #username
   google:
     plus: #username
-    analytics: UA-72868907-1
+    analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: timotheenivalis
+  github: aseetharam
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: timothée-bonnet-75108415a
+  linkedin:
   xing: #username
   instagram: #username
   lastfm: #username
@@ -109,6 +109,6 @@ defaults:
 
 # Comments
 comments:
-  provider: "disqus"
+  provider:
   disqus:
-    shortname: "https-timotheenivalis-github-io"
+    shortname: 
