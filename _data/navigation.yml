@@ -2,7 +2,7 @@
 main:
   - title: "Quick-Start Guide"
     url: https://aseetharam.github.io/
- - title: "About"
+  - title: "About"
     url: https://aseetharam.github.io/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
