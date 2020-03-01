@@ -17,6 +17,10 @@ image:
 
 # Web resources
 
+**NAM genomes**
+[Maize NAM founder lines genome assembly and annotations project page](https://nam-genomes.org/)
+
+
 **GenomeQC**
 [Genome assembly and annotations statistics](https://genomeqc.maizegdb.org/)
 
