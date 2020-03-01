@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /gallery/
+permalink: /media/
 title: Fun stuff
 author: Arun Seetharam
 author_profile: false

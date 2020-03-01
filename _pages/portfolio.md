@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
+permalink: /portfolio/
 title: About Myself
 author: Arun Seetharam
 author_profile: false
