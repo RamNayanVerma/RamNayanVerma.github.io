@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /about/
-title: About Myself
+permalink: /gallery/
+title: Fun stuff
 author: Arun Seetharam
 author_profile: false
 ---

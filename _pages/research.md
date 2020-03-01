@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /about/
-title: About Myself
+permalink: /research/
+title: My Research
 author: Arun Seetharam
 author_profile: false
 ---
