@@ -53,8 +53,10 @@ image:
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
 
 - Nancy Manchanda, John L Portwood, Margaret R Woodhouse, **Arun S Seetharam**, Carolyn J Lawrence-Dill, Carson M Andorf, and Matthew B Hufford. GenomeQC: A quality assessment tool for genome assemblies and gene structure annotations. _BioRxiv_, page 795237, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/795237)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/GenomeQC)
+[<img src="https://img.shields.io/badge/GenomeQC-yellow?style=flat"/>](https://genomeqc.maizegdb.org/)
+
 
 
 ## 2020
