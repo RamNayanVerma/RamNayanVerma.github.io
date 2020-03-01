@@ -25,10 +25,7 @@ Ames, IA 50011.
 
 ## Professional Network ##
 
-[<img src="/images/icons/orcid.svg" alt="0000-0002-6789-9298" width="20"/>](https://orcid.org/0000-0002-6789-9298) 0000-0002-6789-9298
-
-[<img src="/images/icons/twitter.svg" alt="ArunSeetharam" width="20"/>](https://orcid.org/0000-0002-6789-9298) ArunSeetharam
-
-[<img src="/images/icons/github.svg" alt="aseetharam" width="20"/>](https://orcid.org/0000-0002-6789-9298) aseetharam
-
-[<img src="/images/icons/googlescholar.svg" alt="Arun Seetharam" width="20"/>](https://orcid.org/0000-0002-6789-9298) Arun Seetharam
+- [<img src="/images/icons/orcid.svg" alt="0000-0002-6789-9298" width="20"/>](https://orcid.org/0000-0002-6789-9298) 0000-0002-6789-9298
+- [<img src="/images/icons/twitter.svg" alt="ArunSeetharam" width="20"/>](https://orcid.org/0000-0002-6789-9298) ArunSeetharam
+- [<img src="/images/icons/github.svg" alt="aseetharam" width="20"/>](https://orcid.org/0000-0002-6789-9298) aseetharam
+- [<img src="/images/icons/googlescholar.svg" alt="Arun Seetharam" width="20"/>](https://orcid.org/0000-0002-6789-9298) Arun Seetharam
