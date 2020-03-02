@@ -6,7 +6,7 @@ modified: 2017-08-11T20:36:00+02:00
 excerpt: "How to get in touch?"
 tags: [contact, Arun Seetharam, email, address, social media]
 image:
-  feature: image-5.jpg
+  feature: image-5.JPG
   credit: Arun Seetharam
   creditlink: https://aseetharam.github.io
 ---
