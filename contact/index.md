@@ -16,7 +16,7 @@ I would love to hear from you! Please reach me through any of the following meth
 ## E-mail
 [arnstrm followed by "at gmail dot com" ](mailto:arnstrm@gmail.com)
 
-## Snail-Mail ##
+## Address ##
 
 Arun Seetharam \\
 Genome Informatics Facility,\\
@@ -27,7 +27,7 @@ Ames, IA 50011.
 
 ## Professional Network ##
 
-- [<img src="/images/icons/orcid.svg" alt="0000-0002-6789-9298" width="20"/>](https://orcid.org/0000-0002-6789-9298) 0000-0002-6789-9298
-- [<img src="/images/icons/twitter.svg" alt="ArunSeetharam" width="20"/>](https://orcid.org/0000-0002-6789-9298) ArunSeetharam
-- [<img src="/images/icons/github.svg" alt="aseetharam" width="20"/>](https://orcid.org/0000-0002-6789-9298) aseetharam
-- [<img src="/images/icons/googlescholar.svg" alt="Arun Seetharam" width="20"/>](https://orcid.org/0000-0002-6789-9298) Arun Seetharam
+* [<img src="https://img.shields.io/badge/ORCiD-blue?style=flat&logo=ORCID"/>](https://orcid.org/0000-0002-6789-9298) 0000-0002-6789-9298
+* [<img src="https://img.shields.io/badge/Twitter-grey?style=flat&logo=Twitter" alt="ArunSeetharam"/>](https://twitter.com/ArunSeetharam) ArunSeetharam
+* [<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="aseetharam"/>](https://github.com/aseetharam) aseetharam
+* [<img src="https://img.shields.io/badge/Google_Scholar-green?style=flat&logo=Google-Scholar" alt="Arun Seetharam"/>](https://scholar.google.com/citations?user=Itos2p8AAAAJ) Arun Seetharam
