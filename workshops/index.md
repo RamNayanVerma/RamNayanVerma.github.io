@@ -67,14 +67,10 @@ the Maximum Likelihood and Bayesian analyses.
 
 ## Software
 
-**pyrpipe**
-[Genome resources for _Heterodera_ spp (Soybean Cyst Nematode)](https://genomeqc.maizegdb.org/)
+**[pyrpipe](https://github.com/urmi-21/pyrpipe)**: is python package to easily develop RNA-Seq analyses workflow by integrating popular RNA-Seq analysis programs in an object oriented manner.[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/urmi-21/pyrpipe)
 
-**SequelTools**
-[Genome resources for _Heterodera_ spp (Soybean Cyst Nematode)](https://genomeqc.maizegdb.org/)
+**[SequelTools](https://github.com/ISUgenomics/SequelTools)**:  is a fast and easy to install command-line program that provides a collection of tools for working with multiple SMRTcells of BAM format PacBio Sequel raw sequence data. [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/ISUgenomics/SequelTools)
 
-**phylostratr**
-[Genome resources for _Heterodera_ spp (Soybean Cyst Nematode)](https://genomeqc.maizegdb.org/)
+**[`phylostratr`](https://github.com/arendsee/phylostratr)**: A fully automated `R` framework predict and explore the age of genes using phylostratigraphic methods. The program selects species for balanced representation, retrieving sequences, building databases, inferring phylostrata and returning diagnostics. [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/arendsee/phylostratr)
 
-**fagin**
-[Genome resources for _Heterodera_ spp (Soybean Cyst Nematode)](https://genomeqc.maizegdb.org/)
+**[`fagin`](https://github.com/arendsee/fagin)**: a synteny-based pipeline in the R framework. `fagin` determines the genomic context of each query gene in a focal species compared to homologous sequence in target species. [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/arendsee/fagin)
