@@ -36,9 +36,9 @@ Arun Seetharam, Siva Chudalayandi, Rick Masonbrink, Usha Muppirala, Adam Rivers,
 ### Workshop on Basic UNIX
 
 This exercise is designed to provide the basic skills required for working in the UNIX environment, using plenty of relevant examples, specifically for biologists.  If you are using your personal computer, make sure that you have downloaded the files required for the workshop. This exercise will provide you information regarding navigation, files and directory creation/modification and some administrative things related to file permissions.
-[<img src="https://img.shields.io/badge/-Slides-blue?labelColor=white&style=flat&logo=Microsoft-PowerPoint"/>]()
-[<img src="https://img.shields.io/badge/-Exercises-blue?labelColor=white&style=flat&logo=Adobe-Acrobat-Reader"/>]()
-[<img src="https://img.shields.io/badge/-Materials-blue?labelColor=black&style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Slides-blue?labelColor=white&style=flat&logo=Microsoft-PowerPoint"/>](/publications/pdf/slides_workshop_as.pptx)
+[<img src="https://img.shields.io/badge/-Exercises-blue?labelColor=white&style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/UNIX_exercises_all.pdf)
+[<img src="https://img.shields.io/badge/-Materials-blue?labelColor=black&style=flat&logo=github"/>](https://github.com/ISUgenomics/basic_UNIX_2015)
 
 ### Workshop on Phylogenomics
 
@@ -46,9 +46,9 @@ This phylogenomics tutorial is divided into 3 major sections. The first section 
 orthologs from closely related plasmodium species. Second section is about multiple sequence alignment
 and construction of super matrix. The final section will show simple phylogenetic tree construction using
 the Maximum Likelihood and Bayesian analyses.
-[<img src="https://img.shields.io/badge/-Slides-blue?labelColor=white&style=flat&logo=Microsoft-PowerPoint"/>]()
-[<img src="https://img.shields.io/badge/-Exercises-blue?labelColor=white&style=flat&logo=Adobe-Acrobat-Reader"/>]()
-[<img src="https://img.shields.io/badge/-Materials-blue?labelColor=black&style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Slides-blue?labelColor=white&style=flat&logo=Microsoft-PowerPoint"/>](/publications/pdf/)
+[<img src="https://img.shields.io/badge/-Exercises-blue?labelColor=white&style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/phylogenomics_workshop.pdf)
+[<img src="https://img.shields.io/badge/-Materials-blue?labelColor=black&style=flat&logo=github"/>](https://github.com/ISUgenomics/basic_UNIX_2015)
 
 ## Web resources
 
