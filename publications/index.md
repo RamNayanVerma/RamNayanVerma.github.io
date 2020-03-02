@@ -7,6 +7,8 @@ excerpt: "Arun Seetharam's publications"
 tags: [Arun Seetharam, Arun S. Seetharam]
 image:
   feature: image-3.jpg
+  credit: Arun Seetharam
+  creditlink: https://aseetharam.github.io
 ---
 
 <span id='badgeCont419579' style='width:126px'>

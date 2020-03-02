@@ -7,6 +7,8 @@ excerpt: "How to get in touch?"
 tags: [contact, Arun Seetharam, email, address, social media]
 image:
   feature: sample-image-1b.jpg
+  credit: Arun Seetharam
+  creditlink: https://aseetharam.github.io
 ---
 
 I would love to hear from you! Please reach me through any of the following methods:

@@ -7,6 +7,8 @@ excerpt: "Gallery"
 tags: [gallery, Arun Seetharam]
 image:
   feature: sample-image-1b.jpg
+  credit: Arun Seetharam
+  creditlink: https://aseetharam.github.io
 ---
 <section id="table-of-contents" class="toc">
   <header>
