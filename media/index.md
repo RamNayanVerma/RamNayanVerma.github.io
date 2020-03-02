@@ -6,7 +6,7 @@ modified: 2017-08-11T20:36:00+02:00
 excerpt: "Gallery"
 tags: [gallery, Arun Seetharam]
 image:
-  feature: sample-image-1b.jpg
+  feature: image-4.jpg
   credit: Arun Seetharam
   creditlink: https://aseetharam.github.io
 ---
