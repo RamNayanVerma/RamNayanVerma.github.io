@@ -48,7 +48,7 @@ This phylogenomics tutorial is divided into 3 major sections. The first section 
 orthologs from closely related plasmodium species. Second section is about multiple sequence alignment
 and construction of super matrix. The final section will show simple phylogenetic tree construction using
 the Maximum Likelihood and Bayesian analyses.
-[<img src="https://img.shields.io/badge/-Slides-blue?labelColor=white&style=flat&logo=Microsoft-PowerPoint"/>](/publications/pdf/)
+[<img src="https://img.shields.io/badge/-VMware%20(3.6Gb)-blue?labelColor=white&style=flat"/>](/publications/pdf/)
 [<img src="https://img.shields.io/badge/-Exercises-blue?labelColor=white&style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/phylogenomics_workshop.pdf)
 [<img src="https://img.shields.io/badge/-Materials-blue?labelColor=black&style=flat&logo=github"/>](https://github.com/aseetharam/phylogenomics_2013-11-13)
 
@@ -75,4 +75,4 @@ the Maximum Likelihood and Bayesian analyses.
 
 **[phylostratr](https://github.com/arendsee/phylostratr)**: A fully automated R framework predict and explore the age of genes using phylostratigraphic methods. The program selects species for balanced representation, retrieving sequences, building databases, inferring phylostrata and returning diagnostics. [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/arendsee/phylostratr)
 
-**[fagin](https://github.com/arendsee/fagin)**: a synteny-based pipeline in the R framework. `fagin` determines the genomic context of each query gene in a focal species compared to homologous sequence in target species. [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/arendsee/fagin)
+**[fagin](https://github.com/arendsee/fagin)**: a synteny-based pipeline in the R framework. fagin determines the genomic context of each query gene in a focal species compared to homologous sequence in target species. [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/arendsee/fagin)
