@@ -50,7 +50,7 @@ and construction of super matrix. The final section will show simple phylogeneti
 the Maximum Likelihood and Bayesian analyses.
 [<img src="https://img.shields.io/badge/-VMware%20(3.6Gb)-blue?labelColor=white&style=flat"/>](/publications/pdf/)
 [<img src="https://img.shields.io/badge/-Exercises-blue?labelColor=white&style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/phylogenomics_workshop.pdf)
-[<img src="https://img.shields.io/badge/-Materials-blue?labelColor=black&style=flat&logo=github"/>](https://github.com/aseetharam/phylogenomics_2013-11-13)
+[<img src="https://img.shields.io/badge/-Materials-blue?labelColor=black&style=flat&logo=github"/>](https://github.com/aseetharam/phylogenetics)
 
 ## Web resources
 
