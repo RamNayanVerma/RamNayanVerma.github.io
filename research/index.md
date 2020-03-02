@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research themes
+title: Current Projects
 date: 2017-02-26T00:15:47+01:00
 modified: 2017-09-02T12:30:00+01:00
 excerpt: "Arun Seetharam's current projects"
