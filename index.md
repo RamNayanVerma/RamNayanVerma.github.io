@@ -6,7 +6,7 @@ modified: 2020-02-28T00:00:00+00:00
 excerpt: "Arun Seetharam's research website."
 tags: [Arun Seetharam, research, Bioinformatics, plant genomics, animal genomics, home]
 image:
-  feature: sample-image-1b.jpg
+  feature: image-7.png
   credit: Arun Seetharam
   creditlink: https://aseetharam.github.io
 ---
