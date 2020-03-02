@@ -23,12 +23,32 @@ image:
 ## Educational
 
 **Bioinformatics Workbook**
-[Workbook](https://bioinformaticsworkbook.org/)
+
+Bioinformatics and biological data analysis are an important aspect of biological research. Researchers in the genomic era ask larger questions that routinely require dealing with large amounts of data that require familiarity with medium to large scale computing. We created a GitHub based bioinformatics workbook [bioinformaticsworkbook.org](https://bioinformaticsworkbook.org/), that can serve as an online knowledge repository for scientists. This workbook covers variety of problems, with the walk-through examples.
+
+**[Workbook]**: [bioinformaticsworkbook.org](https://bioinformaticsworkbook.org/)
+
+If you use the workbook for your research, please cite us: [![DOI](https://zenodo.org/badge/91881720.svg)](https://zenodo.org/badge/latestdoi/91881720)
+
 
 **Workshop on Basic UNIX**
 
+This exercise is designed to provide the basic skills required for working in the UNIX environment, using plenty of relevant examples, specifically for biologists.  If you are using your personal computer, make sure that you have downloaded the files required for the workshop. This exercise will provide you information regarding navigation, files and directory creation/modification and some administrative things related to file permissions.
+
+[https://img.shields.io/badge/-Slides-blue?labelColor=white&style=flat&logo=Microsoft-PowerPoint]()
+[https://img.shields.io/badge/-Exercises-blue?labelColor=white&style=flat&logo=Adobe-Acrobat-Reader]()
+[https://img.shields.io/badge/-Materials-blue?labelColor=white&style=flat&logo=github]()
 
 **Workshop on Phylogenomics**
+
+This phylogenomics tutorial is divided into 3 major sections. The first section deals with identification of
+orthologs from closely related plasmodium species. Second section is about multiple sequence alignment
+and construction of super matrix. The final section will show simple phylogenetic tree construction using
+the Maximum Likelihood and Bayesian analyses.
+
+[https://img.shields.io/badge/-Slides-blue?labelColor=white&style=flat&logo=Microsoft-PowerPoint]()
+[https://img.shields.io/badge/-Exercises-blue?labelColor=white&style=flat&logo=Adobe-Acrobat-Reader]()
+[https://img.shields.io/badge/-Materials-blue?labelColor=white&style=flat&logo=github]()
 
 
 ## Web resources
