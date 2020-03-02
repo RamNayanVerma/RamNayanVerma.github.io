@@ -59,7 +59,9 @@ the Maximum Likelihood and Bayesian analyses.
 
 
 **GenomeQC**
-[Genome assembly and annotations statistics](https://genomeqc.maizegdb.org/)
+GenomeQC is a user-friendly and interactive platform that generates descriptive summaries with intuitive graphics for genome assemblies and structural annotations. It also benchmarks user supplied assemblies and annotations against the publicly available reference genomes of their choice.
+[<img src="https://img.shields.io/badge/Try-GenomeQC-yellowgreen?labelColor=black&style=flat"/>](https://genomeqc.maizegdb.org/)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/GenomeQC)
 
 **SeriolaDB**
 [Genome resources for _Seriola_ spp](https://genomeqc.maizegdb.org/)
