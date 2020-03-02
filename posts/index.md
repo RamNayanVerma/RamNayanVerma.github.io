@@ -7,4 +7,8 @@ modified: 2017-09-23T23:12:00+09:00
 tags: [blog, posts, news, research, project, Arun Seetharam]
 categories:
 comments: false
+image:
+  feature: sample-image-1b.jpg
+  credit: Arun Seetharam
+  creditlink: https://aseetharam.github.io
 ---
