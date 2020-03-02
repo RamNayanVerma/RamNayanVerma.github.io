@@ -6,10 +6,12 @@ modified: 2017-09-02T12:30:00+01:00
 excerpt: "Arun Seetharam's current projects"
 tags: [Arun Seetharam, research, biology, evolution, bioinformatics]
 image:
-  feature: sample-image-1b.jpg
+  feature: image-2.jpg
   credit: Arun Seetharam
   creditlink: https://aseetharam.github.io
 ---
+
+
 <section id="table-of-contents" class="toc">
   <header>
     <h3>Overview</h3>
