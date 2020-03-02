@@ -10,6 +10,7 @@ image:
   credit: Arun Seetharam
   creditlink: https://aseetharam.github.io
 ---
+
 I am a bioinformatician and my main interests are in the fields of genomics and evolutionary genetics. Currently, I am working on various projects involving next & third generation sequencing including genome assemblies, annotation, and identification of structural variation. I am also  developing pipelines to streamline the assembly and annotation process for newly sequenced organisms. My long-term goal is to study the genome organization and evolution of grass species.
 
 I am currently employed as an Associate Scientist at [Genome Informatics Facility](https://gif.biotech.iastate.edu/), and I collaborate with Matthew Hufford from Department of Ecology, Evolution, and Organismal Biology (EEOB), Eve Wurtele from Department of Genetics, Development, and Cell Biology at Iowa State University and MaizeGDB, USDA at Ames, IA.
