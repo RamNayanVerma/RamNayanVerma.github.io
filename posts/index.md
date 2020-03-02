@@ -8,7 +8,7 @@ tags: [blog, posts, news, research, project, Arun Seetharam]
 categories:
 comments: false
 image:
-  feature: sample-image-1b.jpg
-  credit: Arun Seetharam
-  creditlink: https://aseetharam.github.io
+  feature: image-6.jpg
+  credit: Michael L. Syring
+  creditlink: https://github.com/KidneyPunch
 ---
