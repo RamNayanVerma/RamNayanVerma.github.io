@@ -53,18 +53,17 @@ the Maximum Likelihood and Bayesian analyses.
 ## Web resources
 
 
-**[NAM-genomes.org](https://nam-genomes.org/)**: is consortium website containing information regarding the maize NAM founder lines genome assembly and annotation. The website includes links to raw data and final results distributed via [MaizeGDB](https://maizegdb.org/NAM_project). The genomes have been made public on Jan 9th, 2020. [<img src="https://img.shields.io/badge/go_to-NAM_genomes-yellowgreen?labelColor=black&style=flat"/>](https://nam-genomes.org)
+**[NAM-genomes.org](https://nam-genomes.org/)**: is consortium website containing information regarding the maize NAM founder lines genome assembly and annotation. The website includes links to raw data and final results distributed via [MaizeGDB](https://maizegdb.org/NAM_project). The genomes have been made public on Jan 9th, 2020. [<img src="https://img.shields.io/badge/go_to-NAM_genomes-green?labelColor=black&style=flat"/>](https://nam-genomes.org)
 
 
 **[GenomeQC](https://genomeqc.maizegdb.org/)** is a user-friendly and interactive platform that generates descriptive summaries with intuitive graphics for genome assemblies and structural annotations. It also benchmarks user supplied assemblies and annotations against the publicly available reference genomes of their choice.
 [<img src="https://img.shields.io/badge/Try-GenomeQC-yellowgreen?labelColor=black&style=flat"/>](https://genomeqc.maizegdb.org/)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/GenomeQC)
 
-**SeriolaDB**
-[Genome resources for _Seriola_ spp](https://genomeqc.maizegdb.org/)
+**[SeriolaDB](https://www.serioladb.org/)** is a website designed as a centralized knowledge base for Seriola researchers and producers.  It contains genomics, genetics, breeding and phenotypic data along with protocols and tools to translate this information in to practical applications for culture activities.  SeriolaDB uses GMOD Tripal and Drupal's luggage extension to manage the genomics data and empower efficient web development by multiple users. [<img src="https://img.shields.io/badge/go_to-SeriolaDB-green?labelColor=black&style=flat"/>](https://www.serioladb.org/)
 
-**SCNbase**
-[Genome resources for _Heterodera_ spp (Soybean Cyst Nematode)](https://genomeqc.maizegdb.org/)
+**[SCNbase](https://scnbase.org)** is a website designed as a centralized knowledge base for Soybean Cyst Nematode (SCN) researchers and producers.  It contains genomics, genetics, population data along tools to translate this information in to practical applications.  SCNBase uses GMOD Tripal and Drupal's luggage extension to manage the genomics data and empower efficient web development by multiple users. [<img src="https://img.shields.io/badge/go_to-SCNbase-green?labelColor=black&style=flat"/>](https://scnbase.org/)
+
 
 ## Software
 
