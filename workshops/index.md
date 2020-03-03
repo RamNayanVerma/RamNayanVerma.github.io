@@ -7,6 +7,7 @@ excerpt: "Synergistic Activities"
 tags: [R, statistics, workshops, teaching]
 image:
   feature: image-1.jpg
+  fig-caption: Gunnison Point, Black Canyon of Gunnison
   credit: Arun Seetharam
   creditlink: https://aseetharam.github.io
 ---
