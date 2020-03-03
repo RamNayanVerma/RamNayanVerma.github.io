@@ -33,7 +33,7 @@ Bioinformatics and biological data analysis are an important aspect of biologica
 
 _If you use the workbook for your research, please cite us:_
 
-Arun Seetharam, Siva Chudalayandi, Rick Masonbrink, Usha Muppirala, Adam Rivers, Maryam Sayadi, & Andrew Severin. (2019, October 11). ISUgenomics/bioinformatics-workbook: 2019-10-11 Release of the Bioinformatics Workbook (Version v1.0.0). _Zenodo_ [![DOI](https://zenodo.org/badge/91881720.svg)](https://zenodo.org/badge/latestdoi/91881720).
+Arun Seetharam, Siva Chudalayandi, Rick Masonbrink, Usha Muppirala, Adam Rivers, Maryam Sayadi, & Andrew Severin. (2019, October 11). ISUgenomics/bioinformatics-workbook: 2019-10-11 Release of the Bioinformatics Workbook (Version v1.0.0). _Zenodo_ [![DOI](https://zenodo.org/badge/91881720.svg)](https://zenodo.org/badge/latestdoi/91881720) [<img src="https://img.shields.io/badge/-Source-blue?labelColor=black&style=flat&logo=github"/>](https://github.com/ISUgenomics/bioinformatics-workbook)
 
 
 ### Workshop on Basic UNIX
