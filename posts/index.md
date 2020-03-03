@@ -12,3 +12,17 @@ image:
   credit: Michael L. Syring
   creditlink: https://github.com/KidneyPunch
 ---
+
+<span id='badgeCont419579' style='width:126px'>
+<script src='http://labs.researcherid.com/mashlets?el=badgeCont419579&mashlet=badge&showTitle=false&className=a&rid=B-8899-2015'>
+</script>
+</span>
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Jump to:</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
