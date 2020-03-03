@@ -1,0 +1,40 @@
+---
+layout: post
+title: This is my first blog!
+excerpt: "stating blog post, what should I write about?"
+date: 2013-03-01T15:21:00+00:00
+modified: 2013-03-01T15:21:00+00:00
+tags: [Arun Seetharam, hack, bioinformatics, bash]
+categories: [bioinformatics]
+comments: true
+#image:
+#  feature: image.jpg
+#  credit: Arun Seetharam
+#  creditlink: http://aseetharam.github.io
+---
+
+Many times, it might be essential to grab  a portion of a FASTA sequence to perform downstream analyses. One such case would be to extract all the genes given the whole genome (like all chloroplast and mitochondrial genes using just the GFF file). There are are several ways to do this.
+
+1. If you are familiar with Galaxy, there is a "Extract Genomic DNA" tool that can do this job. You can use either a GFF or GTF datasets (if not in this format you can easily convert it). This is pretty straight forward.
+
+
+
+
+
+
+
+2. Using BEDTools, a utility called 'fastaFromBed' can do this. Simply,
+
+```bashfastaFromBed -fi in.fasta -bed regions.bed -fo out.regions.fa```
+
+3. GLIMMER package as 2 scripts that can be used to extract sequences based on co-ordinates.
+
+```bashextract [options] sequence coords```
+
+This program reads a genome sequence and a list of coordinates for it and outputs a multifasta file of the regions specified by the coordinates
+
+```bashmulti-extract [options] sequences coords```
+
+This program is a multi-fasta version of the preceding program
+
+
