@@ -1,9 +1,9 @@
 ---
 layout: post
-title: This is my first blog!
-excerpt: "stating blog post, what should I write about?"
-date: 2013-03-01T15:21:00+00:00
-modified: 2013-03-01T15:21:00+00:00
+title: How to install a RPM package
+excerpt: "simple trick to open a RPM package and install the programs if you can't find the source"
+date: 2014-04-04T15:21:00+00:00
+modified: 2014-04-04T15:21:00+00:00
 tags: [Arun Seetharam, hack, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true

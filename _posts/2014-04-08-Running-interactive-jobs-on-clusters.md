@@ -1,9 +1,9 @@
 ---
 layout: post
-title: This is my first blog!
-excerpt: "stating blog post, what should I write about?"
-date: 2013-03-01T15:21:00+00:00
-modified: 2013-03-01T15:21:00+00:00
+title: Running interactive jobs on clusters
+excerpt: "quick introduction for using screen, a program that keeps your terminal alive even after you disconnect/close your terminal"
+date: 2014-04-08T15:21:00+00:00
+modified: 2014-04-08T15:21:00+00:00
 tags: [Arun Seetharam, hack, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true

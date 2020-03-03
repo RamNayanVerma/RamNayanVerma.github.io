@@ -1,9 +1,9 @@
 ---
 layout: post
-title: This is my first blog!
-excerpt: "stating blog post, what should I write about?"
-date: 2013-03-01T15:21:00+00:00
-modified: 2013-03-01T15:21:00+00:00
+title: How to insert word like comments in Overleaf Latex documents
+excerpt: "LaTex trick for collaborative writing!"
+date: 2017-08-18T15:21:00+00:00
+modified: 2017-08-18T15:21:00+00:00
 tags: [Arun Seetharam, hack, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true

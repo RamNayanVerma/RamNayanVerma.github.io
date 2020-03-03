@@ -1,9 +1,9 @@
 ---
 layout: post
-title: This is my first blog!
-excerpt: "stating blog post, what should I write about?"
-date: 2013-03-01T15:21:00+00:00
-modified: 2013-03-01T15:21:00+00:00
+title: Bash loops for productivity
+excerpt: "some commonly use bash loops that can boost your productivity!"
+date: 2013-04-04T15:21:00+00:00
+modified: 2013-04-04T15:21:00+00:00
 tags: [Arun Seetharam, hack, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true

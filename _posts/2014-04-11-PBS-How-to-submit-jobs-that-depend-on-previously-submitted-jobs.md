@@ -1,9 +1,9 @@
 ---
 layout: post
-title: This is my first blog!
-excerpt: "stating blog post, what should I write about?"
-date: 2013-03-01T15:21:00+00:00
-modified: 2013-03-01T15:21:00+00:00
+title: PBS How to submit jobs that depend on previously submitted jobs
+excerpt: "Submitting dependency jobs in PBS-Torque job scheduler"
+date: 2014-04-11T15:21:00+00:00
+modified: 2014-04-11T15:21:00+00:00
 tags: [Arun Seetharam, hack, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: This is my first blog!
-excerpt: "stating blog post, what should I write about?"
-date: 2013-03-01T15:21:00+00:00
-modified: 2013-03-01T15:21:00+00:00
+title: Highlight words enclosed within parenthesis in MS Word
+excerpt: "A regex like trick in MS Word to speed up your work!"
+date: 2014-04-16T15:21:00+00:00
+modified: 2014-04-16T15:21:00+00:00
 tags: [Arun Seetharam, hack, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
