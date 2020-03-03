@@ -32,11 +32,11 @@ The Andropogoneae tribe of grasses contains a thousand species that collectively
 
 **PI's:**
 
-- Edward Buckler (PI)
-- Elizabeth Kellogg (Co-PI)
-- Adam Siepel (Co-PI)
-- Jeffrey Ross-Ibarra (Co-PI)
-- Matthew Hufford (Co-PI)
+- [Edward Buckler](https://www.maizegenetics.net/) (PI)
+- [Elizabeth Kellogg](http://kellogglab.weebly.com/) (Co-PI)
+- [Adam Siepel](http://siepellab.labsites.cshl.edu/) (Co-PI)
+- [Jeffrey Ross-Ibarra](http://www.rilab.org/) (Co-PI)
+- [Matthew Hufford](http://www.zeagenomics.org/) (Co-PI)
 
 NSF Award Page can be found [here](https://nsf.gov/awardsearch/showAward?AWD_ID=1822330).
 
@@ -46,9 +46,9 @@ Maize is an important crop and model organism for plant genetics. However, curre
 
 **PI's:**
 
-- R. Kelly Dawe (PI)
-- Doreen Ware (Co-PI)
-- Matthew Hufford (Co-PI)
+- [R. Kelly Dawe](https://www.dawelab.org/) (PI)
+- [Doreen Ware](http://www.warelab.org/) (Co-PI)
+- [Matthew Hufford](http://www.zeagenomics.org/) (Co-PI)
 
 NSF Award Page can be found [here](https://nsf.gov/awardsearch/showAward?AWD_ID=1822330).
 
@@ -61,8 +61,8 @@ The premise that new genes can arise from non-genic DNA sequences is borne out f
 
 **PI's:**
 
-- Eve Wurtele (PI)
-- Kevin Bassler (Co-PI)
+- [Eve Wurtele](https://www.gdcb.iastate.edu/people/eve-syrkin-wurtele) (PI)
+- [Kevin Bassler](https://www.uh.edu/nsm/physics/people/profiles/kevin-bassler/) (Co-PI)
 
 NSF Award Page can be found [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1546858).
 
