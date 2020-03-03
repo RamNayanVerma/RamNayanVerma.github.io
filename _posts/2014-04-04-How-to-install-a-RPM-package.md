@@ -4,7 +4,7 @@ title: How to install a RPM package
 excerpt: "simple trick to open a RPM package and install the programs if you can't find the source"
 date: 2014-04-04T15:21:00+00:00
 modified: 2014-04-04T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, rpm, install, bioinformatics, bash, red-hat]
 categories: [bioinformatics]
 comments: true
 #image:

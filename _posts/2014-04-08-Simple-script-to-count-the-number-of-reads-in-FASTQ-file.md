@@ -4,7 +4,7 @@ title: Simple script to count the number of reads in FASTQ file
 excerpt: "count number of reads in your fastq file, simple solution using only bash!"
 date: 2014-04-08T15:21:00+00:00
 modified: 2014-04-08T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, reads, count, fastq, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:

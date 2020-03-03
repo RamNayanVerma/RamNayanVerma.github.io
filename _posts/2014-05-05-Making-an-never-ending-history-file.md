@@ -4,7 +4,7 @@ title: Making an never ending history file
 excerpt: "Problem: your history file in bash is not big enough to hold every single command you type"
 date: 2014-05-05T15:21:00+00:00
 modified: 2014-05-05T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, bashrc, history, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:

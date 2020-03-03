@@ -112,4 +112,4 @@ defaults:
 comments:
   provider:
   disqus:
-    shortname:
+    shortname: isugifwiki

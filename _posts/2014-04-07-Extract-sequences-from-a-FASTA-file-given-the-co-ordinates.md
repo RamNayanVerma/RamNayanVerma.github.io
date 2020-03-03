@@ -4,7 +4,7 @@ title: Extract sequences from a FASTA file given the co ordinates
 excerpt: "having a sequence co-ordinates and you need the sequence? use this trick!"
 date: 2014-04-07T15:21:00+00:00
 modified: 2014-04-07T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, fasta, bed, coords, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:
@@ -42,5 +42,3 @@ multi-extract [options] sequences coords
 ```
 
 This program is a multi-fasta version of the preceding program
-
-

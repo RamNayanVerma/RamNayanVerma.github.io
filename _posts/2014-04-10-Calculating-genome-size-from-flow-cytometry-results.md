@@ -4,7 +4,7 @@ title: Calculating genome size from flow cytometry results
 excerpt: "Flow cytomerty results in picogram, but you need it in Mb?"
 date: 2014-04-10T15:21:00+00:00
 modified: 2014-04-10T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, genomesize, flowcytometry, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:

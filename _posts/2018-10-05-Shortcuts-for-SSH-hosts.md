@@ -4,7 +4,7 @@ title: Shortcuts for SSH hosts
 excerpt: "adding the config file to make SSH connection easier"
 date: 2018-10-05T15:21:00+00:00
 modified: 2018-10-05T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, shortcuts, config, bashrc, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:

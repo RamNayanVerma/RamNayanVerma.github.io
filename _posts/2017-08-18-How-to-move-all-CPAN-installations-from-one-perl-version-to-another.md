@@ -4,7 +4,7 @@ title: How to move all CPAN installations from one perl version to another
 excerpt: "Moving your perl packages around"
 date: 2017-08-18T15:21:00+00:00
 modified: 2017-08-18T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, CPAN, perl, move, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:

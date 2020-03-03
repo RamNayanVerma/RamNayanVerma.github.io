@@ -4,7 +4,7 @@ title: PBS How to submit jobs that depend on previously submitted jobs
 excerpt: "Submitting dependency jobs in PBS-Torque job scheduler"
 date: 2014-04-11T15:21:00+00:00
 modified: 2014-04-11T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, PBS, Torque, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:
@@ -44,5 +44,3 @@ SECOND=$(qsub -W depend=afterok:$FIRST second_job.sub)
 THIRD=$(qsub -W depend=afterok:$SECOND third_job.sub)
 FOURTH=$(qsub -W depend=afterok:$THIRD fourth_job.sub)
 ```
-
-

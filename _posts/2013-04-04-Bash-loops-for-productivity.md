@@ -4,7 +4,7 @@ title: Bash loops for productivity
 excerpt: "some commonly use bash loops that can boost your productivity!"
 date: 2013-04-04T15:21:00+00:00
 modified: 2013-04-04T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, bash, bioinformatics, loop, if, while]
 categories: [bioinformatics]
 comments: true
 #image:
@@ -45,5 +45,3 @@ for i in {1..22} X Y; do echo "human chromosome $i"; done
 ```
 
 I hope these will help you too!
-
-

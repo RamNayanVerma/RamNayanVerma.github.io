@@ -4,7 +4,7 @@ title: Enabling variable expansion on Linux HPC
 excerpt: "enabling auto-completion in Bash"
 date: 2017-08-22T15:21:00+00:00
 modified: 2017-08-22T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, autofill, tab, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:

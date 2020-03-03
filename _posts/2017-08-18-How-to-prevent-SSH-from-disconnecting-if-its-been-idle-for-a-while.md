@@ -4,7 +4,7 @@ title: How to prevent SSH from disconnecting if its been idle for a while
 excerpt: "a trick in SSH to send signal a regular interval to keep your session alive"
 date: 2017-08-18T15:21:00+00:00
 modified: 2017-08-18T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, SSH, alive, session, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:

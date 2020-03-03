@@ -4,7 +4,7 @@ title: Calculate length of all sequences in an multi fasta file
 excerpt: "A simple solution to get fasta length using python"
 date: 2014-04-14T15:21:00+00:00
 modified: 2014-04-14T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, fasta, length, stats, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:

@@ -4,7 +4,7 @@ title: Summary statistics for a fasta file
 excerpt: "Get detailed summary for your fasta file"
 date: 2015-03-05T15:21:00+00:00
 modified: 2015-03-05T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, summary, statistics, fasta, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:
@@ -53,12 +53,14 @@ seq_length.py input_file.fasta | cut -f 2 |summary_stats.sh
 
 You will see formatted output as follows
 
+```
 Total:  1,825,408
 Count:  1,155
 Mean:   1,580
 Median: 1,360
 Min:    1,001
 Max:    12,972
+```
 
 For getting a histogram, I suggest using a per-existing package called data_hacks (on github). The installation is fairly simple (see README), can be used with the above scripts. Once you download/installed the package, run the above script to get the min/max values. This can be plugged in to the data_hacks script to get the histogram (you can also save the data to be later plotted using any other ways, too).
 

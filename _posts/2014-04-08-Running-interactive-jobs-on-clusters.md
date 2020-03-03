@@ -4,7 +4,7 @@ title: Running interactive jobs on clusters
 excerpt: "quick introduction for using screen, a program that keeps your terminal alive even after you disconnect/close your terminal"
 date: 2014-04-08T15:21:00+00:00
 modified: 2014-04-08T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, screen, interactive, cloud, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:
@@ -69,5 +69,3 @@ alias qlive="qsub -I -l mem=256Gb,nodes=1:ppn=32,walltime=48:00:00 -N stdin"
 ```
 
 I hope this helps!
-
-

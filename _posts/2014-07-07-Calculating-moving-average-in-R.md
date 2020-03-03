@@ -4,7 +4,7 @@ title: Calculating moving average in R
 excerpt: "attach moving average field for your file"
 date: 2014-07-07T15:21:00+00:00
 modified: 2014-07-07T15:21:00+00:00
-tags: [Arun Seetharam, hack, bioinformatics, bash]
+tags: [Arun Seetharam, R, moving, average, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 #image:
