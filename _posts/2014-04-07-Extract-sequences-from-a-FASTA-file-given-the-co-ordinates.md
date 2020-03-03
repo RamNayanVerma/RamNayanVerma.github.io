@@ -25,15 +25,21 @@ Many times, it might be essential to grab  a portion of a FASTA sequence to per
 
 2. Using BEDTools, a utility called 'fastaFromBed' can do this. Simply,
 
-```bashfastaFromBed -fi in.fasta -bed regions.bed -fo out.regions.fa```
+```bash
+fastaFromBed -fi in.fasta -bed regions.bed -fo out.regions.fa
+```
 
 3. GLIMMER package as 2 scripts that can be used to extract sequences based on co-ordinates.
 
-```bashextract [options] sequence coords```
+```bash
+extract [options] sequence coords
+```
 
 This program reads a genome sequence and a list of coordinates for it and outputs a multifasta file of the regions specified by the coordinates
 
-```bashmulti-extract [options] sequences coords```
+```bash
+multi-extract [options] sequences coords
+```
 
 This program is a multi-fasta version of the preceding program
 

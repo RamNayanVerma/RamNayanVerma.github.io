@@ -41,6 +41,7 @@ Shortcuts for SSH hosts
 
 and add the details:
 
+```
 Host sweet
   Hostname clustername.hostdomain.dept.edu
   User username
@@ -49,7 +50,7 @@ Host sugary
   Hostname anothercluster.hostdomain.dept.edu
   User username
   ForwardX11 yes
-
+```
 
 Set permissions straight:
 

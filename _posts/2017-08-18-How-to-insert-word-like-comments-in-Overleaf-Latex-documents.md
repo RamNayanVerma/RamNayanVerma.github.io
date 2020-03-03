@@ -15,22 +15,28 @@ comments: true
 
 There is a `todo` package that can be used for this purpose. Simply add these lines to your document and you can leave comments with \todo commands.
 
+```
 \usepackage{geometry}
+```
 
 
 The above package will be used in most documents, so no need to add it if its already there
 
+```
 \usepackage[colorinlistoftodos]{todonotes}
-
+```
 
 by default it will be on right, to put it on left (if you don't have room beacuse of margins) use
 
+```
 \reversemarginpar
-
+```
 
 For commenting
 
+```
 \todo{this is an example comment}
-
+```
 
 Comments will be show as follows:
+

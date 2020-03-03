@@ -68,6 +68,7 @@ seq_length.py input_file.fasta |cut -f 2 | histogram.py --percentage --max=12972
 
 The output you will get is:
 
+```
 # NumSamples = 1155; Min = 1001.00; Max = 12972.00
 # Mean = 1580.439827; Variance = 624229.340751; SD = 790.081857; Median 1360.000000
 # each ∎ represents a count of 13
@@ -81,5 +82,6 @@ The output you will get is:
  9380.7000 - 10577.8000 [     1]:  (0.09%)
 10577.8000 - 11774.9000 [     0]:  (0.00%)
 11774.9000 - 12972.0000 [     1]:  (0.09%)
+```
 
 I hope this post helps!
