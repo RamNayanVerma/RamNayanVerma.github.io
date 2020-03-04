@@ -54,14 +54,16 @@ image:
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
 
-- Nancy Manchanda, John L Portwood, Margaret R Woodhouse, **Arun S Seetharam**, Carolyn J Lawrence-Dill, Carson M Andorf, and Matthew B Hufford. GenomeQC: A quality assessment tool for genome assemblies and gene structure annotations. _BioRxiv_, page 795237, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/795237)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/GenomeQC)
-[<img src="https://img.shields.io/badge/GenomeQC-yellow?style=flat"/>](https://genomeqc.maizegdb.org/)
+
 
 
 
 ## 2020
+
+- Nancy Manchanda, John L Portwood, Margaret R Woodhouse, **Arun S Seetharam**, Carolyn J Lawrence-Dill, Carson M Andorf, and Matthew B Hufford. GenomeQC: A quality assessment tool for genome assemblies and gene structure annotations _BMC Genomics_ 21(193), 2020.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/s12864-020-6568-2)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/GenomeQC)
+[<img src="https://img.shields.io/badge/GenomeQC-yellow?style=flat"/>](https://genomeqc.maizegdb.org/)
 
 - Abdelnaser M Elashry, Samer S Habash, Paramasivan Vijayapalani, Nahal Brocke-Ahmadinejad, Roman Blümel, **Arun Seetharam**, Heiko Schoof, and Florian MW Grundler. Transcriptome and parasitome analysis of Beet Cyst Nematode _Heterodera schachtii_. _Scientific Reports_, 10(1):1--12, 2020. [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
 
