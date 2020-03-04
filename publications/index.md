@@ -30,29 +30,29 @@ image:
 
 
 - Jianing Liu, **Arun S Seetharam**, Kapeel Chougule, Shujun Ou, Kyle William Swentowsky, Jonathan Isaiah Gent, Victor Llaca, Margaret Woodhouse, Nancy Manchanda, Gernot G Presting, David Kudrna, Magdy Alabady, Candice Hirsch, Kevin Fengler, Doreen Ware, Todd Michael, Matthew Hufford, Kelly Dawe. Gapless assembly of maize chromosomes using long read technologies. _bioRxiv_, 2020.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.01.14.906230)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/dawelab/Ab10-Assembly)
 
 
 - Shujun Ou, Jianing Liu, Kapeel M. Chougule, Arkarachai Fungtammasan, **Arun Seetharam**, Joshua Stein, Victor Llaca, Nancy Manchanda, Amanda M. Gilbert, Xuehong Wei, Chen-Shan Chin, David E. Hufnagel, Sarah Pedersen, Samantha Snodgrass, Kevin Fengler, Margaret Woodhouse, Brian P. Walenz, Sergey Koren, Adam M. Phillippy, Brett Hannigan, R. Kelly Dawe, Candice N. Hirsch, Matthew B. Hufford, Doreen Ware. Effect of sequence depth and length in long-read assembly of the maize inbred NC358. _BioRxiv_, page 858365, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/858365)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/Maize_NC358)
 
 
 - **Arun S Seetharam**, Urminder Singh, Jing Li, Priyanka Bhandary, Zebulun Arendsee, and Eve Syrkin Wurtele. Maximizing prediction of orphan genes in assembled genomes. _bioRxiv_, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2019.12.17.880294)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/eswlab/orphan-prediction)
 
 - David E Hufnagel, Matthew B Hufford, and **Arun S Seetharam**. SequelTools: A suite of tools for working with PacBio Sequel raw sequence data. _bioRxiv_, page 611814, 2019.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
-[<img src="https://img.shields.io/badge/-python-lightblue?style=flat&logo=python"/>]()
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://doi.org/10.1101/611814)
+[<img src="https://img.shields.io/badge/-python-lightblue?style=flat&logo=python"/>](https://github.com/ISUgenomics/SequelTools)
 
 
 
 - Karthik Murugan, **Arun S Seetharam**, Andrew J Severin, and Dipali G Sashital. Pervasive off-target and double-stranded DNA nicking by CRISPR-Cas12a. _BioRxiv_, page 657791, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/657791)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/ISUgenomics/sashital-lab/tree/master/2019_cas12aNickase)
 
 
 
@@ -71,34 +71,35 @@ image:
 ## 2019
 
 - Rick E Masonbrink, Catherine M Purcell, Sara E Boles, Andrew Whitehead, John R Hyde, **Arun S Seetharam**, and Andrew J Severin. An annotated genome for _Haliotis rufescens_ (red abalone) and resequenced green, pink, pinto, black, and white abalone species. _Genome biology and evolution_, 11(2):431--438, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1093/gbe/evz006)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/ISUgenomics/RedAbaloneGenomePaper_GBE_2018)
 
-- Masonbrink, R., Maier, T. R., Muppirala, U., **Seetharam, A. S.**, Lord, E., Juvale, P. S., Schmutz, J., Johnson, N. T., Korkin, D., Mitchum, M. G., Mimee, B., den Akker, S. E., Hudson, M., Severin, A. J., & Baum, T. J. The genome of the soybean cyst nematode (_Heterodera glycines_) reveals complex patterns of duplications involved in the evolution of parasitism genes. _BMC genomics_, 20(1):119, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+- Tom R. Maier, Usha Muppirala, **Arun S. Seetharam**, Etienne Lord, Parijat S. Juvale, Jeremy Schmutz, Nathan T. Johnson, Dmitry Korkin, Melissa G. Mitchum, Benjamin Mimee, Sebastian Eves-van den Akker, Matthew Hudson, Andrew J. Severin and Thomas J. Baum . The genome of the soybean cyst nematode (_Heterodera glycines_) reveals complex patterns of duplications involved in the evolution of parasitism genes. _BMC genomics_, 20(1):119, 2019.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/s12864-019-5485-8)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/remkv6/SCN_Genome_Paper)
 
 - Stacey N Barnes, Rick E Masonbrink, Thomas R Maier, **Arun Seetharam**, Anoop S Sindhu, Andrew J Severin, and Thomas J Baum. _Heterodera glycines_ utilizes promiscuous spliced leaders and demonstrates a unique preference for a species-specific spliced leader over _C. elegans_ SL1. _Scientific reports_, 9(1):1--11, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1038/s41598-018-37857-0)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/ISUgenomics/Heterodera-glycines-Spliced-Leaders)
 
 - Morgan M Sommer-Lassa, James Reecy, Andrew Severin, **Arun Somwarpet-Seetharam**, and Mary Sue Mayes. The effects of feeding a novel _Saccharomyces cerevisiae_ feed additive on the prevalence and abundance of anti-microbial resistance genes in the microbiome (s) of receiving beef calves. _Journal of Animal Science_, 97(Supplement\_2):40--41, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1093/jas/skz122.072)
+
 
 - Zebulun Arendsee, Jing Li, Urminder Singh, Priyanka Bhandary, **Arun Seetharam**, and Eve Syrkin Wurtele. fagin: synteny-based phylostratigraphy and finer classification of young genes. _BMC bioinformatics_, 20(1):1--14, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/s12859-019-3023-y)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/arendsee/fagin)
 
 
 - Zebulun Arendsee, Jing Li, Urminder Singh, **Arun Seetharam**, Karin Dorman, and Eve Syrkin Wurtele. phylostratr: A framework for phylostratigraphy. _Bioinformatics_, 35(19):3617--3627, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1093/bioinformatics/btz171)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/arendsee/phylostratr)
 
 
 - Rick Masonbrink, Tom R Maier, **Arun S Seetharam**, Parijat S Juvale, Levi Baber, Thomas J Baum, and Andrew J Severin. SCNbase: a genomics portal for the Soybean Cyst Nematode (_Heterodera glycines_). _Database_, 2019(1):baz111, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1093/database/baz111)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/remkv6/SCNBase)
+[<img src="https://img.shields.io/badge/go_to-SCNbase-green?labelColor=black&style=flat"/>](https://scnbase.org/)
 
 ## 2018
 
