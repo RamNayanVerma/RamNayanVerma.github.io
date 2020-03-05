@@ -2,7 +2,7 @@
 
 title:            Arun Seetharam
 locale:           en_US
-url:			  https://aseetharam.github.io/
+url:			  https://aseetharam.github.io
 
 # Jekyll configuration
 permalink:   /:categories/:title/
