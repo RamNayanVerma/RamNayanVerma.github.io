@@ -74,7 +74,7 @@ image:
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1093/gbe/evz006)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/ISUgenomics/RedAbaloneGenomePaper_GBE_2018)
 
-- Tom R. Maier, Usha Muppirala, **Arun S. Seetharam**, Etienne Lord, Parijat S. Juvale, Jeremy Schmutz, Nathan T. Johnson, Dmitry Korkin, Melissa G. Mitchum, Benjamin Mimee, Sebastian Eves-van den Akker, Matthew Hudson, Andrew J. Severin and Thomas J. Baum . The genome of the soybean cyst nematode (_Heterodera glycines_) reveals complex patterns of duplications involved in the evolution of parasitism genes. _BMC genomics_, 20(1):119, 2019.
+- Rick E Masonbrink, Tom R. Maier, Usha Muppirala, **Arun S. Seetharam**, Etienne Lord, Parijat S. Juvale, Jeremy Schmutz, Nathan T. Johnson, Dmitry Korkin, Melissa G. Mitchum, Benjamin Mimee, Sebastian Eves-van den Akker, Matthew Hudson, Andrew J. Severin and Thomas J. Baum . The genome of the soybean cyst nematode (_Heterodera glycines_) reveals complex patterns of duplications involved in the evolution of parasitism genes. _BMC genomics_, 20(1):119, 2019.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/s12864-019-5485-8)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/remkv6/SCN_Genome_Paper)
 
