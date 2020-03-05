@@ -129,7 +129,7 @@ image:
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1021/acssynbio.7b00166)
 
 
-- Rick E Masonbrink, Andrew J Severin, and **Arun S Seetharam**. Comparative genomics of soybean and other legumes. In _The Soybean Genome_, pages 83--93. Springer, 2017. [book](https://link.springer.com/book/10.1007/978-3-319-64198-0)
+- Rick E Masonbrink, Andrew J Severin, and **Arun S Seetharam**. Comparative genomics of soybean and other legumes. In _The Soybean Genome_, pages 83--93. Springer, 2017. [<img src="https://img.shields.io/badge/-Get_Chapter-lightgrey?style=flat"/>](https://link.springer.com/book/10.1007/978-3-319-64198-0)
 
 
 
