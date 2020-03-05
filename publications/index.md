@@ -65,7 +65,7 @@ image:
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/HuffordLab/GenomeQC)
 [<img src="https://img.shields.io/badge/GenomeQC-yellow?style=flat"/>](https://genomeqc.maizegdb.org/)
 
-- Abdelnaser M Elashry, Samer S Habash, Paramasivan Vijayapalani, Nahal Brocke-Ahmadinejad, Roman Blümel, **Arun Seetharam**, Heiko Schoof, and Florian MW Grundler. Transcriptome and parasitome analysis of Beet Cyst Nematode _Heterodera schachtii_. _Scientific Reports_, 10(1):1--12, 2020. [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+- Abdelnaser M Elashry, Samer S Habash, Paramasivan Vijayapalani, Nahal Brocke-Ahmadinejad, Roman Blümel, **Arun Seetharam**, Heiko Schoof, and Florian MW Grundler. Transcriptome and parasitome analysis of Beet Cyst Nematode _Heterodera schachtii_. _Scientific Reports_, 10(1):1--12, 2020. [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1038/s41598-020-60186-0)
 
 
 ## 2019
@@ -104,71 +104,72 @@ image:
 ## 2018
 
 - Priyanka Bhandary, **Arun S Seetharam**, Zebulun W Arendsee, Manhoi Hur, and Eve Syrkin Wurtele. Raising orphans from a metadata morass: A researcher's guide to re-use of public’omics data. _Plant science_, 267:32--47, 2018.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1016/j.plantsci.2017.10.014)
 
 - Catherine M. Purcell, **Arun S. Seetharam**, Owyn Snodgrass, Sofia Ortega-García, John R. Hyde, and Andrew J. Severin. Insights into teleost sex determination from the _Seriola dorsalis_ genome assembly. _BMC Genomics_, 19(31), 2018.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/s12864-017-4403-1)
+[<img src="https://img.shields.io/badge/go_to-SeriolaDB-green?labelColor=black&style=flat"/>](https://www.serioladb.org/)
+
 
 
 - Joshua T Trujillo, **Arun S Seetharam**, Matthew B Hufford, Mark A Beilstein, and Rebecca A Mosher. Evidence for a unique DNA-dependent RNA polymerase in cereal crops. _Molecular biology and evolution_, 35(10):2454--2462, 2018.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1093/molbev/msy146)
 
 
 ## 2017
 
 - Mingfeng Cao, Meirong Gao, Carmen Lorena Lopez-Garcia, Yutong Wu, **Arun Somwarpet Seetharam**, Andrew Josef Severin, and Zengyi Shao. Centromeric DNA facilitates nonconventional yeast genetic engineering. _ACS synthetic biology_, 6(8):1545--1553, 2017.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1021/acssynbio.7b00046)
 
 - J. N. Cullen, A. Lithio, **A. S. Seetharam**, Y. Zheng, G. Li, D. Nettleton, and A.M. O’Connor. Microbial community sequencing analysis of the calf eye microbiota and relationship to infectious bovine kerato-conjunctivitis. _Veterinary Microbiology_, 207(2017):267--279, 2017.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1016/j.vetmic.2017.07.003)
 
 
 - Mingfeng Cao, **Arun Somwarpet Seetharam**, Andrew Josef Severin, and Zengyi Shao. Rapid isolation of centromeres from _Scheffersomyces stipitis_. _ACS synthetic biology_, 6(11):2028--2034, 2017.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1021/acssynbio.7b00166)
 
 
-- Rick E Masonbrink, Andrew J Severin, and **Arun S Seetharam**. Comparative genomics of soybean and other legumes. In _The Soybean Genome_, pages 83--93. Springer, 2017.
+- Rick E Masonbrink, Andrew J Severin, and **Arun S Seetharam**. Comparative genomics of soybean and other legumes. In _The Soybean Genome_, pages 83--93. Springer, 2017. [book](https://link.springer.com/book/10.1007/978-3-319-64198-0)
 
 
 
 ## 2016
 
 - Basudev Chowdhury, **Arun Seetharam**, Zhiping Wang, Yunlong Liu, Amy C. Lossie, Jyothi Thimmapuram, and Joseph Irudayaraj. A study of alterations in dna epigenetic modifications (5mc and 5hmc) and gene expression influenced by simulated microgravity in human lymphoblastoid cells. _PLoS ONE_, 11(1):e0147514, 2016.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]( https://doi.org/10.1371/journal.pone.0147514)
 
 
 ## 2015
 
 - **Arun S Seetharam**, Emily Kawaler, Zhi-Qiang Du, Max F Rothschild, and Andrew J Severin. Microbiome analyses of pacific white shrimp (_Litopenaeus vannamei_) collected from disparate geographical locations. _Genomics data_, 6:67, 2015.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1016/j.gdata.2015.08.009)
 
 
-- Chaoyou Xue, **Arun S Seetharam**, Olga Musharova, Konstantin Severinov, Stan J J. Brouns, Andrew J Severin, and Dipali G Sashital. CRISP-R interference and priming varies with individual spacer sequences. _Nucleic acids research_, 43(22):10831--10847, 2015.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+- Chaoyou Xue, **Arun S Seetharam**, Olga Musharova, Konstantin Severinov, Stan J J. Brouns, Andrew J Severin, and Dipali G Sashital. CRISPR interference and priming varies with individual spacer sequences. _Nucleic acids research_, 43(22):10831--10847, 2015.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1093/nar/gkv1259)
 
 
-- **Arun Seetharam**, Antonio Gomez, Catherine M Purcell, John R Hyde, Philip D Blood, and Andrew J Severin. NCBI-BLAST programs optimization on XSEDE resources for sustainable aquaculture. In _Proceedings of the 2015 XSEDE Conference: Scientific Advancements Enabled by Enhanced Cyberinfrastructure_, pages 1--5, 2015.
+- **Arun Seetharam**, Antonio Gomez, Catherine M Purcell, John R Hyde, Philip D Blood, and Andrew J Severin. NCBI-BLAST programs optimization on XSEDE resources for sustainable aquaculture. In _Proceedings of the 2015 XSEDE Conference: Scientific Advancements Enabled by Enhanced Cyberinfrastructure_, pages 1--5, 2015.[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1145/2792745.2792749)
 
 
 ## Ph.D/Masters
 
 - **Arun S Seetharam** and Gary W Stuart. Whole genome phylogeny for 21 _Drosophila_ species using predicted 2b-RAD fragments. _PeerJ_, 1:e226, 2013.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.7717/peerj.226)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/aseetharam/phylogenomic_profiler)
 
 - **Arun Seetharam** and Gary W Stuart. A study on the distribution of 37 well conserved families of C2H2 zinc finger genes in eukaryotes. _Bmc Genomics_, 14(1):420, 2013.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/1471-2164-14-420)
 
 
-- Rajkumar, B. Fakrudin, S. P. Kavil, Y. Girma, **S. S. Arun**, D. Dadakhalandar, B. H. Gurusiddesh, A. M. Patil, M. Thudi, S. B. Bhairappanavar.  Molecular mapping of genomic regions harbouring QTLs for root and yield traits in sorghum (_Sorghum bicolor_ L. Moench). _Physiology and Molecular Biology of Plants_, 19(3):409--419, 2013. [<img src="https://img.shields.io/badge/-get_pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>]()
+- Rajkumar, B. Fakrudin, S. P. Kavil, Y. Girma, **S. S. Arun**, D. Dadakhalandar, B. H. Gurusiddesh, A. M. Patil, M. Thudi, S. B. Bhairappanavar.  Molecular mapping of genomic regions harbouring QTLs for root and yield traits in sorghum (_Sorghum bicolor_ L. Moench). _Physiology and Molecular Biology of Plants_, 19(3):409--419, 2013. [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://dx.doi.org/10.1007%2Fs12298-013-0188-0)
 
 - **Arun Seetharam** and Gary W Stuart. Whole genome phylogenies for multiple _Drosophila_ species. _BMC research notes_, 5(1):670, 2012.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://bmcresnotes.biomedcentral.com/articles/10.1186/1756-0500-5-670#citeas)
 
 
 - **Arun Seetharam**, Yang Bai, and Gary W Stuart. A survey of well conserved families of C2H2 zinc-finger genes in _Daphnia_. _BMC genomics_, 11(1):276, 2010.
-[<img src="https://img.shields.io/badge/Open_Access-blue?style=flat&logo=Open-Access"/>]()
+[<img src="https://img.shields.io/badge/Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1186/1471-2164-11-276)
 
 
 - P. Srinivasa Reddy, B. Fakrudin, Rajkumar, S. M. Punnuri, **S. S. Arun**, M. S. Kuruvinashetti, I. K. Das, and N. Seetharama. Molecular mapping of genomic regions harboring QTLs for stalk rot resistance in sorghum. _Euphytica_, 159(1--2):191--198, 2007.
