@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Arun Seetharam
+title:            Urminder Singh
 locale:           en_US
-url:			  https://aseetharam.github.io
+url:			  https://urmi-21.github.io
 
 # Jekyll configuration
 permalink:   /:categories/:title/
@@ -50,12 +50,12 @@ analytics:
 
 # Site owner
 owner:
-  name: Arun Seetharam
-  avatar: arnstrm.jpg
+  name: Urminder Singh
+  avatar: urmi.jpg
   bio: "Bioinformatician"
-  email: arnstrm@gmail.com
+  email: usingh@iastate.edu
 #  disqus-shortname: https-timotheenivalis-github-io
-  twitter: ArunSeetharam
+  twitter: _urminder
   facebook: #username
   google:
     plus: #username
@@ -64,9 +64,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: aseetharam
+  github: urmi-21
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin:
+  linkedin: https://www.linkedin.com/in/urminder-singh-82a90b5b/
   xing: #username
   instagram: #username
   lastfm: #username
