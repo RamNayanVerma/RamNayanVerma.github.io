@@ -6,7 +6,7 @@ modified: 2020-02-28T00:00:00+00:00
 excerpt: "Urminder Singh's personal website."
 tags: [Urminder Singh, Research, Bioinformatics, home]
 image:
-  feature: image-7.png
+  feature: urmi_1.png
   credit: Urminder Singh
   creditlink: https://urmi-21.github.io
 ---
