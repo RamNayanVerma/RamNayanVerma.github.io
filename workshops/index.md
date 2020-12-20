@@ -5,11 +5,6 @@ date: 2019-07-06T13:19:48+09:00
 modified: 2020-02-19T12:24:48+09:00
 excerpt: "Synergistic Activities"
 tags: [R, statistics, workshops, teaching]
-image:
-  feature: image-1.jpg
-  fig-caption: Gunnison Point, Black Canyon of Gunnison
-  credit: Urminder Singh
-  creditlink: https://urmi-21.github.io
 ---
 
 

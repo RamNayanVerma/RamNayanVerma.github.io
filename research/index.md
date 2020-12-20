@@ -5,10 +5,6 @@ date: 2017-02-26T00:15:47+01:00
 modified: 2017-09-02T12:30:00+01:00
 excerpt: "Urminder Singh's current projects"
 tags: [Urminder Singh, research, bioinformatics, evolution, machine learning]
-image:
-  feature: image-2.jpg
-  credit: Urminder Singh
-  creditlink: https://urmi-21.github.io
 ---
 
 
