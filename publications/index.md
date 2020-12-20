@@ -4,11 +4,7 @@ title: Publications
 date: 202-02-29T19:09:34+01:00
 modified: 202-02-29T19:09:34+01:00
 excerpt: "Arun Seetharam's publications"
-tags: [Arun Seetharam, Arun S. Seetharam]
-image:
-  feature: image-3.jpg
-  credit: Arun Seetharam
-  creditlink: https://aseetharam.github.io
+tags: [Urminder Singh]
 ---
 
 <span id='badgeCont419579' style='width:126px'>
