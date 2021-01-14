@@ -19,24 +19,24 @@ tags: [Urminder Singh, research, bioinformatics, evolution, machine learning]
 </section><!-- /#table-of-contents -->
 
 
-## Role of genetic ancestry in COVID-19 susceptibility and severity
+### Role of genetic ancestry in COVID-19 susceptibility and severity
 
-## Origins of novel genes
+### Origins of novel genes
 
 I am studying the origin of novel protein-coding genes in humans.
 
 
-## Examining cell-type specific expression of novel genes
+### Examining cell-type specific expression of novel genes
 
 
-## A deep-generative model to integrate massive bulk expression datasets
+### A deep-generative model to integrate massive bulk expression datasets
 
 
 
-## MetaOmGraph: A tool for exploration of big omics data
+### MetaOmGraph: A tool for exploration of big omics data
 
 
-## pyrpipe: Bioinformatics pipelines in pure-python
+### pyrpipe: Bioinformatics pipelines in pure-python
 
 
-## orfipy: Fast and flexible ORF caller
+### orfipy: Fast and flexible ORF caller
