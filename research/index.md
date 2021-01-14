@@ -19,7 +19,7 @@ tags: [Urminder Singh, research, bioinformatics, evolution, machine learning]
 </section><!-- /#table-of-contents -->
 
 
-## Examining COVID-19 susceptibility on populations of different ancestry 
+## Role of genetic ancestry COVID-19 susceptibility and severity
 
 ## Origins of novel genes
 
