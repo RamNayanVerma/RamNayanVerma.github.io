@@ -21,22 +21,6 @@ tags: [Urminder Singh]
 </div>
 </section><!-- /#table-of-contents -->
 
-## Preprints/In-Press
-
-
-
-- **Urminder Singh**, author2. Title title. _bioRxiv_, 2020.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2020.01.14)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/)
-
-- Arun S Seetharam, **Urminder Singh**, Jing Li, Priyanka Bhandary, Zebulun Arendsee, and Eve Syrkin Wurtele. Maximizing prediction of orphan genes in assembled genomes. _bioRxiv_, 2019.
-[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://doi.org/10.1101/2019.12.17.880294)
-[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/eswlab/orphan-prediction)
-
-
-## 2020
-
-
-## 2019
+#### Please see my [Google scholar page](https://scholar.google.com/citations?user=yat-ghwAAAAJ&hl=en) for full list of publications.
 
 
