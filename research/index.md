@@ -19,14 +19,24 @@ tags: [Urminder Singh, research, bioinformatics, evolution, machine learning]
 </section><!-- /#table-of-contents -->
 
 
-I am working on many different projects, the primary projects that I'm currently working are listed below. See the [publications](https://urmi-21.github.io//publications/)/[resources](https://urmi-21.github.io//workshops/) pages to see my contributions to other projects.
+## Examining COVID-19 susceptibility on populations of different ancestry 
+
+## Origins of novel genes
+
+I am studying the origin of novel protein-coding genes in humans.
 
 
-## Project 1 Title
-
-Descriptions
+## Examining cell-type specific expression of novel genes
 
 
-# My Research Interests
+## A deep-generative model to integrate massive bulk expression datasets
 
-Will be updated soon!
+
+
+## MetaOmGraph: A tool for exploration of big omics data
+
+
+## pyrpipe: Bioinformatics pipelines in pure-python
+
+
+## orfipy: Fast and flexible ORF caller
