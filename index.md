@@ -16,5 +16,8 @@ In general, my long-term research interests are developing machine learning meth
 
 Apart from my research, I love to read about diverse scientific disciplines. 
 
+Please read about my current research [here](https://urmi-21.github.io/research/).
+A list of publications is [here](https://scholar.google.com/citations?user=yat-ghwAAAAJ&hl=en).
+
 
 **My full C.V** [<img src="https://img.shields.io/badge/pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](/publications/pdf/Urminder_Singh-CV.pdf)

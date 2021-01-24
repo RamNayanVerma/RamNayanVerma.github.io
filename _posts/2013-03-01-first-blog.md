@@ -2,14 +2,14 @@
 layout: post
 title: 
 excerpt: ""
-date: 2013-03-01T15:21:00+00:00
-modified: 2013-03-01T15:21:00+00:00
+date: 2021-03-01T15:21:00+00:00
+modified: 2021-03-01T15:21:00+00:00
 tags: [Urminder Singh, hack, bioinformatics, bash]
 categories: [bioinformatics]
 comments: true
 image:
   feature: image.jpg
-  credit: Urminder SIngh
+  credit: Urminder Singh
   creditlink: http://urmi-21.github.io
 ---
 
