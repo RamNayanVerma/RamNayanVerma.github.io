@@ -27,17 +27,32 @@ People of African and Latin ancestries disproportionately [affected](https://blo
 An individual's health is a result of complex interactions among one's [genetic](https://www.sciencemag.org/news/2020/10/found-genes-sway-course-coronavirus), environmental, and [socio-economic](https://blogs.scientificamerican.com/voices/racism-not-genetics-explains-why-black-americans-are-dying-of-covid-19/) factors.
 We leveraged RNA-Seq expression data and probed differences in gene-expression among people from European and African Ancestries. Although we could not control environmental and socio-economic factors (because of lack of metadata), we found differential expression of genes implicated in COVID-19 infection.
 Further, African American gene expression signatures reveal an increased number or activity of esophageal glandular cells and lung ACE2-positive basal keratinocytes.
-Please read our preprint [here](https://assets.researchsquare.com/files/rs-88890/v1_stamped.pdf)).
+Please read our preprint [here](https://assets.researchsquare.com/files/rs-88890/v1_stamped.pdf).
 
 Our ongoing research, in collaboration with the COVID-19 International Research Team ([COV-IRT](https://www.cov-irt.org/)), aims to detect genetic factors that can explain the disparity of COVID-19 infection and mortality rate among different populations. 
 We are particularly interested in identifying and examining the roles of human specific [orphan genes](https://elifesciences.org/articles/55136) and non-coding RNAs in COVID-19 infection.
 
 ### Origins of novel genes
 
-I am studying the origin of novel protein-coding genes in humans.
+![](/images/geneslifecycle.jpg)
+*Figure showing life cycle of orphan genes. [Ref: Genetic Novelty: How new genes are born](https://elifesciences.org/articles/55136)*
+
+During evolution, genes undergo duplication and divergence and give rise to new genes.
+These new genes can potentially code for [new proteins](https://en.wikipedia.org/wiki/Gene_duplication) and may provide the organism with useful biological functions.
+Genes resulting through the process of duplication could be traced back to their ancestral genes via [sequence homology](https://en.wikipedia.org/wiki/Sequence_homology).
+It has been observed that every in organism a number of genes could not be traced back to an ancestral gene. These gene are termed as [orphan genes](https://en.wikipedia.org/wiki/Orphan_gene). 
+Orphan genes can arise [*de novo*](https://en.wikipedia.org/wiki/De_novo_gene_birth) from non-genic regions in the genome. Many such orphan genes are found to be involved in biologically important functions.
+
+Focus of my research is to identify and characterize novel expressed genes in humans. To achieve this goal I am integrating and analyzing terabytes high quality of RNA-Seq datasets from massive projects like [GTEx](https://gtexportal.org/home/), [TCGA](https://portal.gdc.cancer.gov) and [SRA](https://www.ncbi.nlm.nih.gov/sra).
+
+
 
 
 ### Examining cell-type specific expression of novel genes
+
+With the advent of [single-cell sequencing](https://en.wikipedia.org/wiki/Single_cell_sequencing) it is now easy to examine transcriptome profiles at single cell level.
+I am examining publicly available single cell RNA-Seq datasets to look for expression of novel genes in a cell specific manner.
+
 
 
 ### A deep-generative model to integrate massive bulk expression datasets
