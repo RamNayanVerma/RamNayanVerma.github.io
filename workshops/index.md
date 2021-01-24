@@ -65,7 +65,8 @@ Multiple pipelines implemented in *pyrpipe*. [pyrpipe tutorial](https://github.c
 Basic tutorial on accessing TCGA data using [TCGABiolinks](https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html) R package.
 [TCGA-Data-Analysis](https://github.com/urmi-21/TCGA-Data-Analysis).
 
-
+#### Machine learning examples using H2O
+Some examples using the H2O machine learning library. [H2O machine learning examples](https://github.com/urmi-21/H2O-examples)
 
 
 
