@@ -1,13 +1,12 @@
 ---
 layout: home
-title: 
+title: About Me
 date: 2020-02-25T00:00:00+00:00
 modified: 2020-02-28T00:00:00+00:00
 excerpt: "Urminder Singh's personal website."
 tags: [Urminder Singh, Research, Bioinformatics, machine learning, deep learning, evolutionary biology, home]
 ---
-
-### About Me
+ 
 
 I am a Ph.D. candidate in Bioinformatics and Computational Biology program at Iowa State University.
 My dissertation is focused on the evolution of novel protein-coding genes in humans and is highly cross-disciplinary 
