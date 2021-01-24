@@ -32,37 +32,103 @@ Please read our preprint [here](https://assets.researchsquare.com/files/rs-88890
 Our ongoing research, in collaboration with the COVID-19 International Research Team ([COV-IRT](https://www.cov-irt.org/)), aims to detect genetic factors that can explain the disparity of COVID-19 infection and mortality rate among different populations. 
 We are particularly interested in identifying and examining the roles of human specific [orphan genes](https://elifesciences.org/articles/55136) and non-coding RNAs in COVID-19 infection.
 
-### Origins of novel genes
+### Identifying novel orphan genes in human using massive RNA-Seq data
 
 ![](/images/geneslifecycle.jpg)
 *Figure showing life cycle of orphan genes. [Ref: Genetic Novelty: How new genes are born](https://elifesciences.org/articles/55136)*
 
 During evolution, genes undergo duplication and divergence and give rise to new genes.
-These new genes can potentially code for [new proteins](https://en.wikipedia.org/wiki/Gene_duplication) and may provide the organism with useful biological functions.
+These new genes can potentially code for [new proteins](https://en.wikipedia.org/wiki/Gene_duplication) and provide the organism with useful biological functions.
 Genes resulting through the process of duplication could be traced back to their ancestral genes via [sequence homology](https://en.wikipedia.org/wiki/Sequence_homology).
-It has been observed that every in organism a number of genes could not be traced back to an ancestral gene. These gene are termed as [orphan genes](https://en.wikipedia.org/wiki/Orphan_gene). 
+It has been observed that in every organism a number of genes could not be traced back to an ancestral gene. These genes are termed as [orphan genes](https://en.wikipedia.org/wiki/Orphan_gene). 
 Orphan genes can arise [*de novo*](https://en.wikipedia.org/wiki/De_novo_gene_birth) from non-genic regions in the genome. Many such orphan genes are found to be involved in biologically important functions.
 
-Focus of my research is to identify and characterize novel expressed genes in humans. To achieve this goal I am integrating and analyzing terabytes high quality of RNA-Seq datasets from massive projects like [GTEx](https://gtexportal.org/home/), [TCGA](https://portal.gdc.cancer.gov) and [SRA](https://www.ncbi.nlm.nih.gov/sra).
+The focus of my research is to identify and characterize novel expressed genes in humans. To achieve this goal, I am integrating and analyzing terabytes high quality of RNA-Seq datasets from massive projects like [GTEx](https://gtexportal.org/home/), [TCGA](https://portal.gdc.cancer.gov) and [SRA](https://www.ncbi.nlm.nih.gov/sra).
 
 
 
 
 ### Examining cell-type specific expression of novel genes
 
-With the advent of [single-cell sequencing](https://en.wikipedia.org/wiki/Single_cell_sequencing) it is now easy to examine transcriptome profiles at single cell level.
-I am examining publicly available single cell RNA-Seq datasets to look for expression of novel genes in a cell specific manner.
+With the advent of [single-cell sequencing](https://en.wikipedia.org/wiki/Single_cell_sequencing) it is now easy to examine transcriptome profiles at the single-cell level.
+I am examining publicly available single-cell RNA-Seq datasets to look for expression of novel genes in a cell-specific manner.
 
 
 
 ### A deep-generative model to integrate massive bulk expression datasets
 
+Petabytes of RNA-Seq are available publicly via resources like NCBI-SRA.
+[Integrative analysis](https://doi.org/10.1093/nar/gkz1209) of such data provides an opportunity to mine biologically essential insights.
+A significant challenge of integrating RNA-Seq datasets from multiple sources is unwanted technical and biological effects.
+Technical effects, such as batch-effects due to technical factors, may be controlled if the batch co-variates are known.
+A significant problem arises when sources of such effects are unknown or hidden.
+Methods like [SVA](https://academic.oup.com/nar/article/42/21/e161/2903156) can remove some of the unwanted variations.
+New methods like [SAUCIE](https://www.krishnaswamylab.org/projects/saucie) use auto-encoders for batch correction and de-noising single-cell expression data, in an unsupervised manner.
+Other deep-learning-based methods have also been developed for single-cell datasets.
+
+I am interested in developing deep generative models for non-linear factor analysis of massive bulk RNA-Seq expression data in this project.
+I use variational auto-encoders to model RNA-Seq count data directly and project them into smaller latent dimensions to remove unwanted variation.
+
+
 
 
 ### MetaOmGraph: A tool for exploration of big omics data
 
+![](https://raw.githubusercontent.com/urmi-21/MetaOmGraph/master/images/MOG_flowchart.png)
+*Figure showing overview of MetaOmGraph tool. [Ref: Genetic Novelty: How new genes are born](https://elifesciences.org/articles/55136)*
+
+I developed, [MetaOmGraph](https://doi.org/10.1093/nar/gkz1209), a fully interactive exploratory data analysis software for big omics datasets.
+MetaOmGraph allows user to visualize and analyze their data using a number methods in a fully interactive manner.
+As data becomes complex, it is important to [explore data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w) from different perspectives.
+MetaOmGraph lets the user do that in an efficient and straightforward manner.
+Domain experts, such as biologist, cell biologists, virologists, and medical professionals can easily analyze the data without writing any code.
+MetaOmGraph is an open source project. Please see it on github [here](https://github.com/urmi-21/MetaOmGraph).
+
+
 
 ### pyrpipe: Bioinformatics pipelines in pure-python
 
+![](/images/pyrpipe_2.png)
+*Figure showing overview of pyrpipe. [Ref: pyrpipe: a python package for RNA-Seq workflows](https://www.biorxiv.org/content/10.1101/2020.03.04.925818v4)*
+
+Writing complex bioinformatics pipelines in a fully reproducible, easy-to-debug, maintainable manner can be challenging.
+Often plain scripting is used to implement the pipelines, which can have many drawbacks.
+I developed *pyrpipe* to provide a framework to implement RNA-Seq and other bioinformatics pipelines in pure python in an object-oriented manner.
+pyrpipe provides special API classes that allow *importing* any Unix executable command in python.
+All commands executed via *pyrpipe* is in this manner is automatically logged, monitored, or can be flexibly controlled using *pyrpipe* options. 
+*pyrpipe* comes with API to access popular RNA-Seq tools directly from python. Using this framework, RNA-Seq processing pipelines can be intuitively coded.
+*pyrpipe* pipelines could be easily extended to add new tools. Parameters can be easily managed in YAML files, which are automatically parsed by *pyrpipe*.
+*pyrpipe_diagnostic* can generate in-depth reports and logs for debugging and reproducibility.
+*pyrpipe* can be easily installed via conda or PyPI.
+*pyrpipe* source code is available on [github](https://github.com/urmi-21/pyrpipe). 
+Please read the pre-print [here](https://www.biorxiv.org/content/10.1101/2020.03.04.925818v4).
 
 ### orfipy: Fast and flexible ORF caller
+
+![](/images/orfipyfig.png)
+*Figure showing features of orfipy. [Ref: orfipy: a fast and flexible tool for extracting ORFs](https://www.biorxiv.org/content/10.1101/2020.10.20.348052v1)*
+
+Identification of Open Reading Frames (ORF) is an integral step for any gene annotation pipeline.
+Presently, there exist many tools for ORF identification, such as the popular [Getorf](http://emboss.sourceforge.net/apps/cvs/emboss/apps/getorf.html) and [OrfM](https://github.com/wwood/OrfM).
+These tools work great but are not flexible in terms of fine-tuning ORF search.
+I developed *orfipy* to solve this challenge. *orfipy* is fast and flexible.
+*orfipy* reduced the total runtime of my [orphan gene prediction pipeline](https://www.biorxiv.org/content/10.1101/2019.12.17.880294v2) significantly while accurately identifying the ORFs.
+*orfipy* can be easily installed via conda or PyPI.
+*orfipy* source code is available on [github](https://github.com/urmi-21/orfipy). Please read the pre-print [here](https://www.biorxiv.org/content/10.1101/2020.10.20.348052v1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
