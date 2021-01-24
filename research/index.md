@@ -66,8 +66,8 @@ Methods like [SVA](https://academic.oup.com/nar/article/42/21/e161/2903156) can 
 New methods like [SAUCIE](https://www.krishnaswamylab.org/projects/saucie) use auto-encoders for batch correction and de-noising single-cell expression data, in an unsupervised manner.
 Other deep-learning-based methods have also been developed for single-cell datasets.
 
-I am interested in developing deep generative models for non-linear factor analysis of massive bulk RNA-Seq expression data in this project.
-I use variational auto-encoders to model RNA-Seq count data directly and project them into smaller latent dimensions to remove unwanted variation.
+I am interested in developing deep generative models for non-linear factor analysis of massive bulk RNA-Seq expression data.
+In this ongoing project, I am using variational auto-encoders to model RNA-Seq count data directly and project them into smaller latent dimensions to remove unwanted variation.
 
 
 
