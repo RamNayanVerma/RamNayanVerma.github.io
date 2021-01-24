@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example post
-excerpt: "stating blog post, what should I write about?"
+title: 
+excerpt: ""
 date: 2013-03-01T15:21:00+00:00
 modified: 2013-03-01T15:21:00+00:00
 tags: [Urminder Singh, hack, bioinformatics, bash]
