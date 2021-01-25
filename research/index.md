@@ -97,7 +97,7 @@ MetaOmGraph is an open source project. Please see it on github [here](https://gi
 ### pyrpipe: Bioinformatics pipelines in pure-python
 
 ![](/images/pyrpipe_2.png)
-*Figure showing overview of pyrpipe. Ref:[Singh, U., Li, J., Seetharam, A., & Wurtele, E. S. (2020). pyrpipe: a python package for RNA-Seq workflows. bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.03.04.925818v4)*
+*Figure showing overview of pyrpipe. Ref: [Singh, U., Li, J., Seetharam, A., & Wurtele, E. S. (2020). pyrpipe: a python package for RNA-Seq workflows. bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.03.04.925818v4)*
 
 Writing complex bioinformatics pipelines in a fully reproducible, easy-to-debug, maintainable manner can be challenging.
 Often plain scripting is used to implement the pipelines, which can have many drawbacks.
