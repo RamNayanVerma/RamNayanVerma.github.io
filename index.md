@@ -33,9 +33,13 @@ Please find my CV here: [<img src="https://img.shields.io/badge/pdf-gray?style=f
 Apart from my research, I like to read (mostly non-fiction, excluding science fiction).
 I am passionate about music. I am a self-taught musician and spend my Saturday afternoons learning new musical styles, or soloing over my favorite songs, or composing my original music.
 
+#### Social 
 
-
- 
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black"/>](https://www.linkedin.com/in/urmi-21/)
+[<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="urmi-21"/>](https://github.com/urmi-21)
+[<img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter" alt="_urminder"/>](https://twitter.com/_urminder) 
+[<img src="https://img.shields.io/badge/Google_Scholar-lightgrey?style=flat&logo=Google-Scholar" alt="Urminder Singh"/>](https://scholar.google.com/citations?user=yat-ghwAAAAJ&hl=en)
+[<img src="https://img.shields.io/badge/ORCiD-grey?style=flat&logo=ORCID"/>](https://orcid.org/0000-0003-3703-0820)
 
 
 
