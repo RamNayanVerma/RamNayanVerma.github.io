@@ -37,7 +37,7 @@ We are particularly interested in identifying and examining the roles of human s
 ### Identifying novel orphan genes in human using massive RNA-Seq data
 
 ![](/images/geneslifecycle.jpg)
-*Figure showing life cycle of orphan genes. [Ref: Genetic Novelty: How new genes are born](https://elifesciences.org/articles/55136)*
+*Figure showing life cycle of orphan genes. Ref: [Singh, U., & Wurtele, E. S. (2020). Genetic novelty: How new genes are born. Elife, 9, e55136.](https://elifesciences.org/articles/55136)*
 
 During evolution, genes undergo duplication and divergence and give rise to new genes.
 These new genes can potentially code for [new proteins](https://en.wikipedia.org/wiki/Gene_duplication) and provide the organism with useful biological functions.
@@ -82,7 +82,7 @@ In this ongoing project, I am using variational auto-encoders to model RNA-Seq c
 ### MetaOmGraph: A tool for exploration of big omics data
 
 ![](https://raw.githubusercontent.com/urmi-21/MetaOmGraph/master/images/MOG_flowchart.png)
-*Figure showing overview of MetaOmGraph tool. [Ref: Genetic Novelty: How new genes are born](https://elifesciences.org/articles/55136)*
+*Figure showing overview of MetaOmGraph tool. Ref: [Singh, U., Hur, M., Dorman, K., & Wurtele, E. S. (2020). MetaOmGraph: a workbench for interactive exploratory data analysis of large expression datasets. Nucleic acids research, 48(4), e23-e23.](https://doi.org/10.1093/nar/gkz1209)*
 
 I am the lead developer of [MetaOmGraph](https://doi.org/10.1093/nar/gkz1209), a fully interactive exploratory data analysis software for big omics datasets.
 MetaOmGraph allows user to visualize and analyze their data using a number methods in a fully interactive manner.
@@ -97,7 +97,7 @@ MetaOmGraph is an open source project. Please see it on github [here](https://gi
 ### pyrpipe: Bioinformatics pipelines in pure-python
 
 ![](/images/pyrpipe_2.png)
-*Figure showing overview of pyrpipe. [Ref: pyrpipe: a python package for RNA-Seq workflows](https://www.biorxiv.org/content/10.1101/2020.03.04.925818v4)*
+*Figure showing overview of pyrpipe. Ref:[Singh, U., Li, J., Seetharam, A., & Wurtele, E. S. (2020). pyrpipe: a python package for RNA-Seq workflows. bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.03.04.925818v4)*
 
 Writing complex bioinformatics pipelines in a fully reproducible, easy-to-debug, maintainable manner can be challenging.
 Often plain scripting is used to implement the pipelines, which can have many drawbacks.
@@ -116,7 +116,7 @@ Please read the pre-print [here](https://www.biorxiv.org/content/10.1101/2020.03
 ### orfipy: Fast and flexible ORF caller
 
 ![](/images/orfipyfig.png)
-*Figure showing features of orfipy. [Ref: orfipy: a fast and flexible tool for extracting ORFs](https://www.biorxiv.org/content/10.1101/2020.10.20.348052v1)*
+*Figure showing features of orfipy. Ref: [Singh, U., & Wurtele, E. S. (2020). orfipy: a fast and flexible tool for extracting ORFs. bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.10.20.348052v1)*
 
 Identification of Open Reading Frames (ORF) is an integral step for any gene annotation pipeline.
 Presently, there exist many tools for ORF identification, such as the popular [Getorf](http://emboss.sourceforge.net/apps/cvs/emboss/apps/getorf.html) and [OrfM](https://github.com/wwood/OrfM).
