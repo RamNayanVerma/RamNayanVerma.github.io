@@ -91,6 +91,7 @@ MetaOmGraph lets the user do that in an efficient and straightforward manner.
 Domain experts, such as biologist, cell biologists, virologists, and medical professionals can easily analyze the data without writing any code.
 MetaOmGraph is an open source project. Please see it on github [here](https://github.com/urmi-21/MetaOmGraph).
 
+**This research is funded by National Science Foundation grant IOS 1546858, Orphan Genes: An Untapped Genetic Reservoir of Novel Traits, and by the Center for Metabolic Biology, Iowa State University**
 
 
 ### pyrpipe: Bioinformatics pipelines in pure-python
