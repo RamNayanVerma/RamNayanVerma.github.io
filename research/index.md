@@ -49,6 +49,7 @@ Orphan genes can arise [*de novo*](https://en.wikipedia.org/wiki/De_novo_gene_bi
 
 The focus of my research is to identify and characterize novel expressed genes in humans. To achieve this goal, I am integrating and analyzing terabytes high quality of RNA-Seq datasets from massive projects like [GTEx](https://gtexportal.org/home/), [TCGA](https://portal.gdc.cancer.gov) and [SRA](https://www.ncbi.nlm.nih.gov/sra).
 
+**This research is funded by National Science Foundation grant IOS 1546858, Orphan Genes: An Untapped Genetic Reservoir of Novel Traits, and by the Center for Metabolic Biology, Iowa State University**
 
 
 
@@ -57,7 +58,7 @@ The focus of my research is to identify and characterize novel expressed genes i
 With the advent of [single-cell sequencing](https://en.wikipedia.org/wiki/Single_cell_sequencing) it is now easy to examine transcriptome profiles at the single-cell level.
 I am leading a small team to examine publicly available single-cell RNA-Seq datasets to look for cell-specific expression of novel genes.
 
-
+**This research is funded by National Science Foundation grant IOS 1546858, Orphan Genes: An Untapped Genetic Reservoir of Novel Traits, and by the Center for Metabolic Biology, Iowa State University**
 
 
 ### A deep-generative model to integrate massive bulk expression datasets
@@ -74,6 +75,7 @@ Other deep-learning-based methods have also been developed for single-cell datas
 I am interested in developing deep generative models for non-linear factor analysis of massive bulk RNA-Seq expression data.
 In this ongoing project, I am using variational auto-encoders to model RNA-Seq count data directly and project them into smaller latent dimensions to remove unwanted variation.
 
+**This research is funded by National Science Foundation grant IOS 1546858, Orphan Genes: An Untapped Genetic Reservoir of Novel Traits, and by the Center for Metabolic Biology, Iowa State University**
 
 
 
@@ -108,6 +110,8 @@ All commands executed via *pyrpipe* is in this manner is automatically logged, m
 *pyrpipe* source code is available on [github](https://github.com/urmi-21/pyrpipe). 
 Please read the pre-print [here](https://www.biorxiv.org/content/10.1101/2020.03.04.925818v4).
 
+**This research is funded by National Science Foundation grant IOS 1546858, Orphan Genes: An Untapped Genetic Reservoir of Novel Traits, and by the Center for Metabolic Biology, Iowa State University**
+
 ### orfipy: Fast and flexible ORF caller
 
 ![](/images/orfipyfig.png)
@@ -121,11 +125,13 @@ I developed *orfipy* to solve this challenge. *orfipy* is fast and flexible.
 *orfipy* can be easily installed via conda or PyPI.
 *orfipy* source code is available on [github](https://github.com/urmi-21/orfipy). Please read the pre-print [here](https://www.biorxiv.org/content/10.1101/2020.10.20.348052v1).
 
+**This research is funded by National Science Foundation grant IOS 1546858, Orphan Genes: An Untapped Genetic Reservoir of Novel Traits, and by the Center for Metabolic Biology, Iowa State University**
 
 
 
+## Past Projects
 
-
+coming soon...
 
 
 
