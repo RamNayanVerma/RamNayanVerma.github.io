@@ -43,7 +43,7 @@ titlecase: true
 
 # Analytics
 analytics:
-  provider               : "google-gtag"
+  provider               : "google"
   google:
     tracking_id          : G-Q4QNGTVVMY
     anonymize_ip: false # default
