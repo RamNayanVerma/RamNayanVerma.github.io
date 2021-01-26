@@ -41,9 +41,14 @@ page_layout: page
 # Format titles with titlecase?
 titlecase: true
 
-
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : G-Q4QNGTVVMY
+    anonymize_ip: false # default
 # Google Analytics
-google_analytics: G-Q4QNGTVVMY
+#google_analytics: G-Q4QNGTVVMY
 
 # Site owner
 owner:
