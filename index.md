@@ -40,8 +40,7 @@ I am passionate about music. I am a self-taught musician and spend my Saturday a
 
 [Race-related differences in genetic determinants of COVID-19 severity](https://www.news-medical.net/news/20200611/Race-related-differences-in-genetic-determinants-of-COVID-19-severity.aspx)
 
-[COVID-19 And America’s Racial Violence Are Inextricable]
-(https://www.healthaffairs.org/do/10.1377/hblog20200626.937724/full/?mi=3u3irl&af=R&ConceptID=885&content=blog&countTerms=true&target=topic-blog&)
+[COVID-19 And America’s Racial Violence Are Inextricable](https://www.healthaffairs.org/do/10.1377/hblog20200626.937724/full/?mi=3u3irl&af=R&ConceptID=885&content=blog&countTerms=true&target=topic-blog&)
 
 
 #### Social 
