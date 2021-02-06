@@ -41,6 +41,10 @@ tags: [Urminder Singh]
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://www.biorxiv.org/content/10.1101/671263v2.full)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/lijing28101/yeast_supplementary)
 
+- Zebulun Arendsee, Andrew Wilkey, **Urminder Singh**, Jing Li, Manhoi Hur, and Eve Syrkin Wurtele. synder: inferring genomic orthologs from synteny maps. *BioRxiv*(2019): 554501.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://www.biorxiv.org/content/10.1101/554501v1)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/arendsee/synder)
+
 ## Peer-reviewed 
 
 - **Urminder Singh**, and Eve S Wurtele. orfipy: a fast and flexible tool for extracting ORFs. _Bioinformatics_, 2020.
@@ -69,7 +73,12 @@ tags: [Urminder Singh]
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://joss.theoj.org/papers/10.21105/joss.01589.pdf)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/urmi-21/ORIS)
 
+- **Urminder Singh**, Niraj Khemka, Mohan Singh Rajkumar, Rohini Garg, and Mukesh Jain. PLncPRO for prediction of long non-coding RNAs (lncRNAs) in plants and its application for discovery of abiotic stress-responsive lncRNAs in rice and chickpea. *Nucleic acids research* 45.22 (2017): e183-e183.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://academic.oup.com/nar/article/45/22/e183/4282667)
+[<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/urmi-21/PLncPRO)
 
+- **Urminder Singh**, Sucheta Chauhan, A Krishnamachari, and Lovekesh Vig. Ensemble of deep long short term memory networks for labelling origin of replication sequences. *2015 IEEE International Conference on Data Science and Advanced Analytics (DSAA)*. IEEE, 2015.
+[<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://www.researchgate.net/profile/Sucheta_Chauhan3/publication/308837697_Ensemble_of_deep_long_short_term_memory_networks_for_labelling_origin_of_replication_sequences/links/5a7193b5aca272e425edde75/Ensemble-of-deep-long-short-term-memory-networks-for-labelling-origin-of-replication-sequences.pdf)
 
 
 ## Book chapters
