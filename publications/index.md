@@ -58,7 +58,7 @@ tags: [Urminder Singh]
 - **Urminder Singh** and Eve Syrkin Wurtele. Genetic novelty: How new genes are born. *Elife* 9 (2020): e55136.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://elifesciences.org/articles/55136)
 
-- Zebulun Arendsee, Jing Li, *Urminder Singh*, Priyanka Bhandary, Arun Seetharam, and Eve Syrkin Wurtele. Fagin: synteny-based phylostratigraphy and finer classification of young genes. *BMC bioinformatics* 20.1 (2019): 1-14.
+- Zebulun Arendsee, Jing Li, **Urminder Singh**, Priyanka Bhandary, Arun Seetharam, and Eve Syrkin Wurtele. Fagin: synteny-based phylostratigraphy and finer classification of young genes. *BMC bioinformatics* 20.1 (2019): 1-14.
 [<img src="https://img.shields.io/badge/-Open_Access-blue?style=flat&logo=Open-Access"/>](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3023-y)
 [<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>](https://github.com/arendsee/fagin)
 
