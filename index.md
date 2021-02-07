@@ -26,9 +26,9 @@ Please read about my current research [here](https://urmi-21.github.io/research/
 
 A list of publications is [here](https://urmi-21.github.io/publications/).
 
-My Résumé could be found here: [<img src="https://img.shields.io/badge/pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](https://raw.githubusercontent.com/urmi-21/urminder_singh_resume/master/Urminder_Resume_Feb2021.pdf){:target="_blank"}
+My Résumé could be found here: [<img src="https://img.shields.io/badge/pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](https://raw.githubusercontent.com/urmi-21/urminder_singh_resume/master/Urminder_Resume.pdf){:target="_blank"}
 
-Please find my CV here: [<img src="https://img.shields.io/badge/pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](https://raw.githubusercontent.com/urmi-21/urminder_singh_resume/master/Urminder_CV_Feb2021.pdf){:target="_blank"}
+Please find my CV here: [<img src="https://img.shields.io/badge/pdf-gray?style=flat&logo=Adobe-Acrobat-Reader"/>](https://raw.githubusercontent.com/urmi-21/urminder_singh_resume/master/Urminder_CV.pdf){:target="_blank"}
 
 Apart from my research, I like to read (mostly non-fiction, excluding science fiction).
 I am passionate about music. I am a self-taught musician and spend my Saturday afternoons learning new musical styles, or soloing over my favorite songs, or composing my original music.
