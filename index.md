@@ -36,6 +36,8 @@ I am passionate about music. I am a self-taught musician and spend my Saturday a
 
 #### News coverage
 
+[Interview with the Iowa State University Graduate College](https://www.grad-college.iastate.edu/news/article/research-impact-awards)
+
 [COVID-19 Exceptional effort awards garner 647 nominations](https://www.inside.iastate.edu/article/2021/01/07/effort)
 
 [Race-related differences in genetic determinants of COVID-19 severity](https://www.news-medical.net/news/20200611/Race-related-differences-in-genetic-determinants-of-COVID-19-severity.aspx)
