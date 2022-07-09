@@ -8,14 +8,7 @@ tags: [contact, Urminder Singh, email, address, social media]
 ---
 
 ## E-mail
-[usingh at iastate dot edu ](mailto:usingh@iastate.edu)
-
-## Address ##
-
-Urminder Singh \\
-415 Bessey Hall, \\
-2200 Osborn Drive,\\
-Ames, IA 50011.
+[urminder<dot>singh<dot>21 at gmail ](mailto:urminder.singh.21@gmail.com)
 
 
 ## Social 
